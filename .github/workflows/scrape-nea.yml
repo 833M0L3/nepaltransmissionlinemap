@@ -1,0 +1,40 @@
+name: Scrape NEA Energy Details
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC (11:45 NPT)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install scraper dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run NEA scraper
+        run: python scripts/scrape_nea.py
+
+      - name: Commit updated nea-energy.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/nea-energy.json
+          if git diff --staged --quiet; then
+            echo "No changes to nea-energy.json"
+          else
+            git commit -m "chore(data): update NEA energy details"
+            git push
+          fi

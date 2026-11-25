@@ -1,0 +1,7 @@
+node_modules
+dist
+.venv
+.venv_tmp_shp
+*.local
+*.tsbuildinfo
+scripts/.dcs_*.json

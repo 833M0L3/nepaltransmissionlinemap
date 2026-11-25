@@ -1,0 +1,3618 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137569050",
+        "name": "Bhaktapur",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "distribution",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.42197782727273,
+          27.67470198181818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/194286939",
+        "operator": "Nepal Electricity Authority",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.34664402000001,
+          27.7213037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207272311",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5619162,
+          27.616428666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/223694840",
+        "name": "Parwanipur",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000;66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.93384625555557,
+          27.086134533333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233558648",
+        "barrier": "fence",
+        "name": "He\u1e6dau\u1e0d\u0101",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000;66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0340008,
+          27.44233280909091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233660660",
+        "name": "KL-I HEP",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.11389596000001,
+          27.540462279999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235281732",
+        "barrier": "fence",
+        "fixme": "name",
+        "name": "Pathlaiya",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0626875857143,
+          27.171728171428573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274440792",
+        "name": "Kusaha",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.03299988571429,
+          26.61540847142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275968711",
+        "location": "outdoor",
+        "name": "Powerstation Martathirta",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000;66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.24078177647058,
+          27.679843994117647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/285259952",
+        "name": "NEA Syuchatar Sub Station",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.27702369375,
+          27.69792368125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/286445650",
+        "name": "Lamosangu",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.84089626153846,
+          27.751238676923077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/302275434",
+        "frequency": "50",
+        "name": "Hapure sub-station",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.14650895999999,
+          28.18164244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306272062",
+        "name": "Lamahi",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.52157651538461,
+          27.87584696923077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309076130",
+        "name": "Chandranigahpur",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3525042590909,
+          27.125505877272726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309076141",
+        "name": "Lahan",
+        "power": "substation",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.47019064999999,
+          26.711457439999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309085116",
+        "name": "Duhabi",
+        "power": "substation",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.27512854999999,
+          26.57222272142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309085119",
+        "name": "Anarmani",
+        "operator": "Nepal Electricity Authority",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.98907433333333,
+          26.636851822222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309114138",
+        "barrier": "wall",
+        "name": "Balaju",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000;66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29539272777778,
+          27.726170105555557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309114157",
+        "barrier": "fence",
+        "name": "Trishuli Hydropower Station",
+        "power": "substation",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.14661633333333,
+          27.92135275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312870583",
+        "name": "Fewa Power House",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.97094263333334,
+          28.18046298333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/327318711",
+        "barrier": "wall",
+        "location": "outdoor",
+        "name": "Bharatpur",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.44219769130436,
+          27.688579817391304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/340535683",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.59488054285714,
+          27.8645485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/340753709",
+        "power": "substation",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4400382875,
+          28.1408179125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/340939177",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.04789253999999,
+          27.512661079999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/341026929",
+        "building": "yes",
+        "name": "Marsyangdi Hydro Power",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.53972436000001,
+          27.876590219999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/341338413",
+        "barrier": "wall",
+        "name": "chapali",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000;66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.35846952307692,
+          27.763955661538464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/341713559",
+        "name": "Damauli",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2694214,
+          27.9786785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/341855906",
+        "name": "Kohalpur Distribution Center",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.68682136999999,
+          28.1845415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342007178",
+        "barrier": "fence",
+        "power": "substation",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91074276666667,
+          27.88275438888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342027063",
+        "barrier": "fence",
+        "name": "Bhotekoshi",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "generation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.92438452857142,
+          27.911831085714287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342038943",
+        "name": "Bhaktapur",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "distribution",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.42193115,
+          27.6738703375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342204410",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7411692142857,
+          28.272426566666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342344470",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "distribution",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.93320255714286,
+          27.08933594285714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342345497",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "transmission",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.91879978333334,
+          27.064234099999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342346893",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "distribution",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.890308025,
+          27.0300305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342350994",
+        "barrier": "fence",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "distribution",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94688614,
+          27.110231019999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342355126",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "transmission",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.97247487777777,
+          27.167864866666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342357362",
+        "barrier": "fence",
+        "name": "Amalekhgunj",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "distribution",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.99234836000001,
+          27.27890544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342360091",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "distribution",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.97434758571428,
+          27.172531071428573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342360312",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "distribution",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.97417732857141,
+          27.172210142857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342370161",
+        "barrier": "fence",
+        "name": "Dhalkebar",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "400000;220000;132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.95180410769231,
+          26.943334692307694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342389789",
+        "barrier": "wall",
+        "name": "Damak",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.72604830833332,
+          26.656215595833334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342598391",
+        "name": "Shivapur",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.86216191666666,
+          27.640389283333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342606055",
+        "alt_name": "Butwal 132 kV Substation",
+        "name": "\u092c\u0941\u091f\u0935\u0932 132 \u0915\u0947\u092d\u0940 \u0938\u092c\u0938\u094d\u091f\u0947\u0938\u0928",
+        "operator": "Rastriya Prasaran Grid Co. Ltd. (RPGCL)",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.47091992857143,
+          27.668204257142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342722013",
+        "barrier": "fence",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6113882,
+          29.28956526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342750364",
+        "barrier": "fence",
+        "name": "Pokhara Electric Grid Center",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.05585725555555,
+          28.179159255555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342992519",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31726725714284,
+          27.690510714285715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342993016",
+        "name": "Baneshwar",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "transmission",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.339279675,
+          27.6848756875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/345049036",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.16804635999999,
+          27.5500522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/345213191",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.10899574,
+          27.486212039999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355397746",
+        "location": "indoor",
+        "name": "bhojpur ghoretar",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "150000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.11733648965517,
+          27.029690348275864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355399034",
+        "name": "ghoretar bhojpur substation",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.11739806,
+          27.029780419999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392474906",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.79124375,
+          27.427471530000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392474908",
+        "addr:city": "Bardghat",
+        "addr:postcode": "33007",
+        "addr:street": "Triveni Road",
+        "name": "Bardaghat Sub-station",
+        "operator": "Nepal Electricity Authority",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.79328838333333,
+          27.532778433333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/409621336",
+        "barrier": "wall",
+        "name": "Attaria",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55304069090909,
+          28.805008463636362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/409621338",
+        "name": "Lamki",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.15770315,
+          28.62502052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/409621339",
+        "name": "Mahendranagar",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22883861111112,
+          28.955446377777776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438832941",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.05851239230768,
+          26.895184553846153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/449024578",
+        "description": "Kudahar - 11",
+        "name": "132/11 KV KUDHAR S/STN",
+        "operator": "Nepal Electricity Authority",
+        "power": "substation",
+        "voltage": "132000;11000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.00501256666666,
+          28.20396481111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/515272059",
+        "name": "Pipalla Grid",
+        "operator": "NEA",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9428781,
+          29.25075822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/518939598",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.93060554,
+          26.878748039999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/518939599",
+        "name": "Ilam/Godak",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.92593366666667,
+          26.877079033333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/518939600",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.879315,
+          26.7918439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549553558",
+        "name": "Phidim Substation",
+        "name:ne": "\u092b\u093f\u0926\u093f\u092e \u0938\u092c\u0938\u094d\u091f\u0947\u0936\u0928",
+        "name_1": "\u092b\u093f\u0926\u093f\u092e \u0938\u092c\u0938\u094d\u091f\u0947\u0936\u0928",
+        "operator": "Nepal Electricity Authority",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.76854156,
+          27.14823372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/643443856",
+        "location": "platform",
+        "name": "Upper Modi HydroPower",
+        "power": "substation",
+        "substation": "industrial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.75990177777777,
+          28.289764448148148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738272763",
+        "frequency": "50",
+        "name": "Bhurigaon",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.31646067777778,
+          28.47884641111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824829981",
+        "name": "Pahalmanpur",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.87558415714285,
+          28.7092561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824829983",
+        "frequency": "50",
+        "name": "Chameliya hydropower plant",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64996698,
+          29.683749740000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824829984",
+        "frequency": "50",
+        "name": "Balach",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6507623,
+          29.684137446666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824888669",
+        "barrier": "wall",
+        "name": "Bharatpur",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.44609932222221,
+          27.712346044444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824888670",
+        "frequency": "50",
+        "name": "Kawasoti",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.18513928,
+          27.6689502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824888674",
+        "name": "Ghorahi",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.49439320555555,
+          27.972383361111113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824888676",
+        "frequency": "50",
+        "name": "Kusum",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.09055468,
+          28.016446459999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825755908",
+        "barrier": "fence",
+        "name": "New Hetauda",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.00697439333334,
+          27.429371286666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825843231",
+        "name": "Sunkoshi Hydropower Station",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8375717,
+          27.753413899999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825843232",
+        "name": "Mai Khola Hydro",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.95782283333334,
+          27.02468528888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825843234",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96348532,
+          27.00552457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825864224",
+        "name": "Simara",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "transmission",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.97188982916667,
+          27.1653709125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825864225",
+        "cables": "6",
+        "power": "substation",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.01929292,
+          27.409679699999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/826107756",
+        "barrier": "fence",
+        "name": "Devighat",
+        "power": "substation",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13485574,
+          27.88898072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/896871626",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.37821548000001,
+          29.32913394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/954519997",
+        "building": "yes",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.62406625,
+          27.994353616666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/965212729",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.27305494,
+          26.576515999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/993823348",
+        "building": "yes",
+        "layer": "1",
+        "name": "Tingla substation",
+        "operator": "Nepal Electricity Authority",
+        "power": "substation",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.58752307380954,
+          27.430573438095237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1054409213",
+        "building": "yes",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.34169336,
+          26.972853280000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103397203",
+        "name": "Baneshwor Substation",
+        "operator": "Nepal Electricity Authority",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "66000,11000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.33933326,
+          27.68496846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1103398582",
+        "name": "Patan Substation",
+        "name:ne": "\u092a\u093e\u091f\u0928 \u0938\u092c\u0938\u094d\u091f\u0947\u0938\u0928",
+        "operator": "Nepal Electricity Authority",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "66000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32135873333334,
+          27.6655973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1154760982",
+        "building": "yes",
+        "layer": "1",
+        "name": "Singati 132 KV Substation",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.15996194545454,
+          27.74282710909091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218956906",
+        "landuse": "industrial",
+        "name": "Samundratar 132kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.37330522857144,
+          27.921887628571426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369165171",
+        "name": "Kalanga Gad",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8760283,
+          29.51108448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369169468",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.83904812,
+          29.62039476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369191748",
+        "construction": "yes",
+        "name": "Surkhet substation 132kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.64937352,
+          28.56265398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369201840",
+        "name": "Mainahiya",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.42212761428571,
+          27.537724542857145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369205495",
+        "name": "Ridi",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.42483282,
+          27.9385687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369206863",
+        "name": "Syangja",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.84295385454546,
+          28.084827954545457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369214340",
+        "name": "Sunawal 132kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6014934,
+          27.626865233333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369214341",
+        "name": "New Butwal",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.68963274285714,
+          27.57559127142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369219991",
+        "name": "Kusma 220kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.64723441666666,
+          28.244122649999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369219992",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.67342156,
+          28.229204199999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369373443",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.66010384,
+          28.50782468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369373444",
+        "name": "Dana substation 220kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6507572875,
+          28.5374338375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369389228",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.71185492,
+          28.240311159999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369389232",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.70020339999999,
+          28.219284019999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369391706",
+        "name": "Hakui substation",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.66599346000001,
+          27.539679079999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369394009",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.47872027142856,
+          28.250093914285713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369394444",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4330076,
+          28.175479359999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369394712",
+        "name": "Marki Chowk",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4993279,
+          27.92300876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369563742",
+        "name": "Amuwa",
+        "power": "substation",
+        "voltage": "33000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.41279124285714,
+          27.592208642857145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369576987",
+        "name": "Jhimruk Powerplant site",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.80215906000001,
+          28.068648939999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369583004",
+        "name": "Sandikharka substation",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.14379938571427,
+          27.958271271428572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369583007",
+        "name": "Motipur Substation",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.11964875714285,
+          27.6921985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369598419",
+        "construction": "yes",
+        "name": "Tamghas substation",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2130543,
+          28.0690820125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369683727",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.48041294,
+          28.24953426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369692683",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.44289798,
+          28.16985762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369733806",
+        "name": "Biratnagar",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.23326276,
+          26.455879779999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369733807",
+        "name": "Inaruwa",
+        "power": "substation",
+        "voltage": "400000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.12136120000001,
+          26.612965766666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369735787",
+        "construction": "yes",
+        "name": "Dhungesangu 220kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.59213054,
+          27.357705980000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369735788",
+        "construction": "yes",
+        "name": "Basantapur 220kv",
+        "power": "substation",
+        "source": "sentinel 2",
+        "substation": "transmission",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.40484628571429,
+          27.154092042857144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369737160",
+        "name": "Phidim Substation 132kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.753755,
+          27.1620283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369737161",
+        "name": "Kabeli 132kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.78236352,
+          27.272289660000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369739650",
+        "name": "Tumlingtar 220kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20592042727273,
+          27.3091724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369739653",
+        "name": "Baneshwor Substation 220kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2792485,
+          27.27445751666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369901673",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.72664112857142,
+          27.151307214285715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369910205",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7415961,
+          27.266054522222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369921020",
+        "name": "Mirchaiya",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.23606107142858,
+          26.839058814285714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369928429",
+        "name": "Rupani Substation",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.71625734285715,
+          26.625548585714284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369943970",
+        "name": "Nawalpur 132kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.58686278,
+          27.07321866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369947337",
+        "name": "Loharpatti 132kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.85940881428571,
+          26.812512542857146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1369972956",
+        "name": "Upper Tamakoshi substation",
+        "power": "substation",
+        "substation": "generation",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.21607364,
+          27.84610772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370049733",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.33119296,
+          27.662233320000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370049734",
+        "name": "Garjyang 132kv substation",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.32053763333333,
+          27.650977100000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370049735",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.31060646,
+          27.6420113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370049736",
+        "name": "New Khimti",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "400000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.09724162222223,
+          27.495699155555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370060605",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.43420481999999,
+          27.60834618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370060606",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.37835692,
+          27.57088994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370060608",
+        "power": "substation",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.35702692,
+          27.52646428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370060609",
+        "name": "Khimti Substation",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.10871126,
+          27.487511539999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370062069",
+        "construction": "yes",
+        "name": "Barhabise",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "400000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.90679562,
+          27.79264102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370118539",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.25774978,
+          27.445486800000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370123905",
+        "name": "Kamane 132kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0352236,
+          27.38881096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370825702",
+        "name": "Syaule 132kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.61168564285715,
+          29.288032442857144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1373832624",
+        "power": "substation",
+        "source": "sentinel 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.74041042857142,
+          28.27531037142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374186810",
+        "name": "Udipur 220kv",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.42420627999999,
+          28.18576968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374200257",
+        "name": "Malekhu",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.85151186,
+          27.811263559999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374356997",
+        "power": "substation",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.22958078,
+          27.680466680000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374357761",
+        "power": "substation",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.23877548888889,
+          27.680025344444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374367505",
+        "name": "Huaxin Cement",
+        "power": "substation",
+        "substation": "industrial",
+        "voltage": "132000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.81347266,
+          27.727736800000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374411346",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.03960096,
+          27.472655100000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374759402",
+        "power": "substation",
+        "substation": "generation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.93174289999999,
+          27.874955319999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374774377",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3498173,
+          27.923131620000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374795579",
+        "power": "substation",
+        "substation": "generation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.20732744,
+          28.071020499999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1375531804",
+        "power": "substation",
+        "substation": "generation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.89070558,
+          27.77656938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1375543721",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.27616256,
+          26.515483999999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1384359796",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.61512382000001,
+          27.930918600000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1386285326",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.22453432857142,
+          28.056079185714285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422301372",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.60545182,
+          29.68923024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422316622",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.18606942,
+          28.63355312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422316623",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.02251715999999,
+          28.523824559999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422317441",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.87940458,
+          28.29222156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422317442",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5863696,
+          28.327342859999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422317443",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.77407223333334,
+          27.988461166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422317444",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3206615,
+          28.024778759999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422317445",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.28298452,
+          27.49240536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422317446",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1979285,
+          27.50854824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422322023",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.61613016,
+          27.6442615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422433138",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.49580642,
+          28.17423066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422433139",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.63722336000001,
+          28.064274440000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422437219",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.67551671999999,
+          28.27363482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422437220",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.18334618,
+          28.368972059999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422439918",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.57819544,
+          27.65358748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428504601",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3011674,
+          28.132907016666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428505465",
+        "name": "Electrictity Office Dailekh",
+        "power": "substation",
+        "substation": "minor_distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7111673,
+          28.8244502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428512181",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.45181085714286,
+          27.6652822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428514869",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0701785,
+          26.56719728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428515900",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.315613,
+          27.037864239999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428515901",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.31595152,
+          27.03761714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428516660",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.72255138,
+          27.20417696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428516661",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.04630111666667,
+          27.176978950000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428517525",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.35350248,
+          26.95479934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428519943",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.59499530000001,
+          28.09949732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428522689",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.24437716,
+          27.90441144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428522691",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.81927038,
+          28.026519819999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428522692",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.17547601999999,
+          27.725588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428522693",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.81043786000001,
+          27.534937359999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428522694",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53771793333334,
+          27.62646808888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1428522695",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.42984036,
+          27.72322848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1456039535",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.18261589999999,
+          28.01163740909091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467684840",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8156469,
+          28.923041740000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687478",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.40805072,
+          27.61355552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687479",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.47734074,
+          28.0515912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687480",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.52988806,
+          27.91054906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687481",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5438867,
+          27.51902144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687482",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.31895068,
+          27.45330588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687483",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.31074526,
+          27.69704244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687484",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0897902,
+          27.914659416666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687485",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.58893894,
+          27.974021519999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687486",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.67100436000001,
+          28.10436088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687487",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.52688928,
+          27.87070106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687488",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.60940135714286,
+          27.808365357142858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687489",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8736561,
+          28.033404760000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687490",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.33855278,
+          29.12587562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687491",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.63037974,
+          28.578661160000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687492",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.43666302,
+          28.627380979999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687493",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.28955672000001,
+          28.45774384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687494",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.22481198571428,
+          28.146233128571428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687495",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.24359328,
+          28.213290719999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467687496",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.59651524,
+          29.149763999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1554183567",
+        "landuse": "industrial",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29950032608696,
+          28.18605952173913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1557575677",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.67345026000001,
+          28.536932639999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1570355204",
+        "barrier": "wall",
+        "landuse": "industrial",
+        "name": "Power Substation Bhalche",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.10674502941177,
+          28.026529005882352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/858011358",
+        "fixme": "location?",
+        "operator": "Power House",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3373579,
+          28.5394605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685226829",
+        "ele": "1071",
+        "kVA": "50",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5310067,
+          28.0689353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1914262684",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3446052,
+          27.7172621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2044124850",
+        "FIXME": "position",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.6333232,
+          28.003157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048514939",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3223777,
+          27.679293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2166394606",
+        "power": "substation",
+        "source": "personal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3091106,
+          27.6558987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5308402576",
+        "building": "yes",
+        "name": "Phidim Substation",
+        "name:ne": "\u092b\u093f\u0926\u093f\u092e \u0938\u092c\u0938\u094d\u091f\u0947\u0936\u0928",
+        "name_1": "\u092b\u093f\u0926\u093f\u092e \u0938\u092c\u0938\u094d\u091f\u0947\u0936\u0928",
+        "operator": "Nepal Electricity Authority",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7686091,
+          27.1482796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5550675432",
+        "name": "Nepal Electricity Authority Pokhara Branch",
+        "power": "substation",
+        "source": "2cpokhara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9837578,
+          28.1590822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6126068417",
+        "name": "\u091a\u092e\u0947\u0932\u093f\u092f\u093e \u0939\u093e\u0907\u0921\u094d\u0930\u094b\u092a\u093e\u0935\u0930 (\u0969\u0966 \u092e\u0947.\u0935\u093e.)",
+        "name:en": "Chamelia Hydropower 30 MW",
+        "name:ne": "\u091a\u092e\u0947\u0932\u093f\u092f\u093e \u0939\u093e\u0907\u0921\u094d\u0930\u094b\u092a\u093e\u0935\u0930 (\u0969\u0966 \u092e\u0947.\u0935\u093e.)",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6488044,
+          29.6824906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7702551365",
+        "name": "Motipur",
+        "power": "substation",
+        "substation": "transmission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0915093,
+          27.67878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9527529311",
+        "addr:municipality": "sainamaina_municipality",
+        "addr:province": "lumbini",
+        "name": "Bidhut Sub station",
+        "name:en": "Bidhut Sub station",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.274709,
+          27.703197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9529321335",
+        "addr:municipality": "sainamaina_municipality",
+        "addr:province": "lumbini",
+        "name": "Electricity Office",
+        "name:en": "Electricity Office",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3393572,
+          27.6861161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10837538383",
+        "name": "Super Dordi Transformer",
+        "operator": "People's Hydropower",
+        "power": "substation",
+        "substation": "generation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5324307,
+          28.2714293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11299305750",
+        "location": "outdoor",
+        "name": "West Seti 400 KV Substation",
+        "operator": "NEA",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "400000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7680404,
+          29.2950402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11357643272",
+        "addr:city": "Khairenitar",
+        "addr:street": "Shuklagandaki-05",
+        "description": "Shuklagandaki, Substation, Belchautara, Khairenitar",
+        "name": "NEA Bidhut Office",
+        "official_name": "Nepal Electricity Authority NEA Office Belchautara Branch",
+        "power": "substation",
+        "substation": "minor_distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0805152,
+          28.0269465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12703007078",
+        "location": "outdoor",
+        "name": "\u092d\u0930\u094c\u0932\u093f\u092f\u093e \u0938\u092c-\u0938\u094d\u091f\u0947\u0936\u0928 \u0928\u092f\u093e\u0901\u092e\u093f\u0932 \u0935\u093f\u0924\u0930\u0923 \u0915\u0947\u0928\u094d\u0926\u094d\u0930",
+        "power": "substation",
+        "substation": "distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5099058,
+          27.5848792
+        ]
+      }
+    }
+  ]
+}

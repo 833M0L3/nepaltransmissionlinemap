@@ -1,0 +1,2216 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 0,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Chisapani",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.31148617823868,
+          29.34114809517697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Pancheswar",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2764266850826,
+          29.160007380537248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Rupal Gad",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.34654567139475,
+          29.107418140803137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Surnaya Gad",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.68768371952969,
+          29.42995951984358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "West Seti",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.80816233128306,
+          29.367442715044024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Wind",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.79647583356437,
+          29.317775099739585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Bajhang",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.07110852995362,
+          29.671291655730002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Bajura",
+        "type": "Smalll hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35742772406157,
+          29.387894086051734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Achham",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.36619259735058,
+          29.040220778920663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Simikot",
+        "type": "Solar",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.88916337026203,
+          29.902099985674155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Heldung",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.94759585885548,
+          29.867040492518083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Kalikot",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.00602834744893,
+          29.542740180824396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Gamgadi",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.50854774935267,
+          29.522288809816686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Solar",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.505626124923,
+          29.571956425121122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Upper Karnali",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.39248721721764,
+          28.920434177304074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Chisapani",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.27415095305297,
+          28.707419071287102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Gulariya",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.24446413055418,
+          28.395534999869145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Surkhet",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8973386226692,
+          28.550981307515578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Jumla",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.41505576760314,
+          29.256420986716453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Dolpa",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.09871588414659,
+          29.288558855442854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Dhadheldhura",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.49832185385131,
+          29.169940241598642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Dota",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9863814214931,
+          29.326539973028602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Nepalgunj",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.65427712344022,
+          28.07051090206297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Chaujhari",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.26970318689496,
+          28.66050029699375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Salyan",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.22448244285236,
+          28.25633989711303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Syarpudaha",
+        "type": "Small hydrop",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.77587638466774,
+          28.639227825948065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Tulsipur",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.30361874492691,
+          28.052846548921337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.52124357563191,
+          27.99914691537075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Jhimruk",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.86746489720805,
+          28.06061886430365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Western Rapti",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.89274136185465,
+          27.888370347522137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Jomsom",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.72540432431141,
+          28.840819911595492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Mustang",
+        "type": "Wind",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.90654503895114,
+          28.943076766634043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Tatopani",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.66518708508451,
+          28.524838064865957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Rahughat Khola",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.56061411448601,
+          28.360912867711537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Banglung",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.49278299842211,
+          28.250687304107704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Modi",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.84607006125492,
+          28.33759592156458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Manang",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.15196149104365,
+          28.61585483051068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Chame",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3944563187065,
+          28.539892595339186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "U Marsyangdi",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.44120230958127,
+          28.44055736473031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "M Marsyangdi",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.39684459221124,
+          28.174377298535823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Marsyangdi",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51872862888855,
+          27.927076354552856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Pokhara",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9139011773188,
+          28.212532301321755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.84626305939803,
+          28.218660587173638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Syangja",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.78088296549026,
+          28.10293686157606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Wind",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.66989346014763,
+          27.94972446054527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Andhikhola",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.75462056860815,
+          27.987705578131017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Kali-Gandaki A",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.58887707951264,
+          27.94474070769451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Butwal",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.47158577465214,
+          27.66140448330259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Gandak",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.80650191021763,
+          27.419049558199298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Domke",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.56394937293115,
+          27.938381540563505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Kali-Gandaki 2",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2578703766193,
+          27.867188570407013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Sapt Gandaki",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.43024621797,
+          27.80583445738388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Wind",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.31630286521275,
+          27.808756081813556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Arughat",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.84803851141321,
+          28.10968339806986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Wind",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.80202292664586,
+          27.902248063563086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Burhi Gandaki",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.84292566866128,
+          27.867188570407013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Chilime",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43444869575119,
+          28.142581462880873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Trisuli",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13415469234329,
+          27.992787748239763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Devighat",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.07480246578739,
+          27.939088114689177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Dhading",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.89674578611965,
+          27.91930403917054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Gajuri",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.95609801267557,
+          27.83168884758801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Helambu",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.69019675326642,
+          27.726950597782714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Wind",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.95102577255918,
+          27.536314603746558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Kulekhani II",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.03594088887577,
+          27.54270003019077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Kulekhani I",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.19915951190453,
+          27.53775401131112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Dhorsing",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31038557740894,
+          27.53923622817622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Hetauda",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.11151906394326,
+          27.456920588434215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Panauti",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43601542788487,
+          27.529010542672363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Khulekhani III",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.25049227660065,
+          27.438440185352505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Sunkoshi",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.82165131661591,
+          27.65857818679993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Bothekoshi",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.79197520333797,
+          28.01539812026106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Kodari",
+        "type": "Solar",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.010845034423,
+          27.869379788729265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Tatopani",
+        "type": "Wind",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.96409904354823,
+          27.737906689393988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Khimti",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.14384911791943,
+          27.466390024618885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Bagmati",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.50832563251927,
+          27.150660179029742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "status": "EXisting",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Wind",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.59597436540946,
+          27.13605205688138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Ramechhap",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.1832208757737,
+          27.217857540912217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Likhu 4",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2474966132265,
+          27.270446780646328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Namche",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.67989702881809,
+          27.834320295573193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Okhaldhunga",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.48159154998758,
+          27.36464335052305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Salleri",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.66236728224006,
+          27.472038866293758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Solu",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8172133770127,
+          27.43405774870801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Khotang",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.80308277716543,
+          27.169628891839345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "status": "Construction",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Puwa",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8021785908566,
+          26.875694055562462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Bhojpur",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.07139470239426,
+          27.149929772922324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Taplejung",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.76190386569365,
+          27.28268075194584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Phidim",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.80147201673093,
+          27.07353481074882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Gorkhe",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.99462802217087,
+          27.068124288891482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Terahathum",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.56053023987896,
+          27.065055921240837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Dhankuta",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30404383226234,
+          26.946351468129016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.40899040191039,
+          26.796413216931906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.89690168166577,
+          26.673704990885646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.64269045063935,
+          26.70328996890005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Dharan",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3747012448289,
+          26.745684416439985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Ilam",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.04170721945722,
+          26.872867759059794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Bhadrapur\\",
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.08227675506106,
+          26.477956154097562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Diesel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.22039754830757,
+          26.460426407519527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": null,
+        "type": "Wind",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.46581400040009,
+          27.68750866798213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Upper Arun",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3781652675099,
+          27.681665419122783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Arun III",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20286780172952,
+          27.31938398984335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Lower Arun",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.19702455287019,
+          27.07396753775083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Kabeli A",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.72876019907065,
+          27.184989266078396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Khandbari",
+        "type": "Small hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20512345466916,
+          27.42399557707896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "status": "Planned",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Kankai",
+        "type": "Hydro",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.89968582019844,
+          26.782426270974597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "status": "Existing",
+        "source": "World Bank",
+        "country": "Nepal",
+        "name": "Biratnagar",
+        "type": "Multifuel",
+        "capacit_MW": null,
+        "operator": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.31605559239865,
+          26.56409486614392
+        ]
+      }
+    }
+  ]
+}

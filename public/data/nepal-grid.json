@@ -1,0 +1,2477 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 0,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.17400433017079,
+            28.970686338160938
+          ],
+          [
+            80.62055917759145,
+            28.812413734011844
+          ],
+          [
+            81.32430700675438,
+            28.69936187390535
+          ],
+          [
+            81.52214776194074,
+            28.314985549543266
+          ],
+          [
+            81.83869297023894,
+            28.173670724410144
+          ],
+          [
+            82.01392335340401,
+            28.069097753811636
+          ],
+          [
+            82.59614043295245,
+            27.91647774266787
+          ],
+          [
+            82.8066995224008,
+            27.795653567179055
+          ],
+          [
+            82.9338828650206,
+            27.643033556035288
+          ],
+          [
+            83.47158577465214,
+            27.66140448330259
+          ],
+          [
+            83.85878839551688,
+            27.537047437185446
+          ],
+          [
+            84.09619730174052,
+            27.641620407783954
+          ],
+          [
+            84.31947472545085,
+            27.700972634339866
+          ],
+          [
+            84.45513695757865,
+            27.664230779805255
+          ],
+          [
+            85.05360524201741,
+            27.403504927434646
+          ],
+          [
+            85.96084641937203,
+            26.79302488285957
+          ],
+          [
+            86.01737234942529,
+            26.807156365372883
+          ],
+          [
+            86.07955087248385,
+            26.773240807340933
+          ],
+          [
+            86.5798053534551,
+            26.69975709827171
+          ],
+          [
+            86.62219980099503,
+            26.65171005772645
+          ],
+          [
+            86.69427036181293,
+            26.677146726250413
+          ],
+          [
+            86.82710629743805,
+            26.654536354229112
+          ],
+          [
+            86.9147214890206,
+            26.586705238165216
+          ],
+          [
+            86.94298445404722,
+            26.586705238165216
+          ],
+          [
+            87.16908817426021,
+            26.682799319255736
+          ],
+          [
+            87.31605559239865,
+            26.56409486614392
+          ],
+          [
+            87.91805674746574,
+            26.631925982207814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 1,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.59614043295245,
+            27.91647774266787
+          ],
+          [
+            82.86746489720805,
+            28.06061886430365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 2,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.45513695757865,
+            27.664230779805255
+          ],
+          [
+            84.44807121632199,
+            27.700972634339863
+          ],
+          [
+            84.5385127044072,
+            27.853592645483634
+          ],
+          [
+            84.24175157162765,
+            28.057085993675326
+          ],
+          [
+            83.9139011773188,
+            28.212532301321755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 3,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.45513695757865,
+            27.664230779805255
+          ],
+          [
+            84.49046566386193,
+            27.686841151826552
+          ],
+          [
+            84.57808085544447,
+            27.83946116297032
+          ],
+          [
+            84.51872862888855,
+            27.927076354552856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 4,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.51872862888855,
+            27.927076354552856
+          ],
+          [
+            84.56394937293115,
+            27.938381540563505
+          ],
+          [
+            84.60917011697376,
+            27.83663486646766
+          ],
+          [
+            85.32139683564468,
+            27.717930413355838
+          ],
+          [
+            85.03594088887577,
+            27.54270003019077
+          ],
+          [
+            85.05360524201741,
+            27.403504927434646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 5,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.40335943422188,
+            27.729235599366486
+          ],
+          [
+            85.42596980624319,
+            27.689667448329214
+          ],
+          [
+            85.74534131104403,
+            27.638794111281292
+          ],
+          [
+            85.82165131661591,
+            27.65857818679993
+          ],
+          [
+            86.14384911791943,
+            27.466390024618885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 6,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.40335943422188,
+            27.729235599366486
+          ],
+          [
+            85.40335943422188,
+            27.66423077980525
+          ],
+          [
+            85.76512538656267,
+            27.610531146254665
+          ],
+          [
+            85.82165131661591,
+            27.65857818679993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 7,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.94298445404722,
+            26.586705238165216
+          ],
+          [
+            86.85748898484168,
+            26.214340673939457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 8,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.31605559239865,
+            26.56409486614392
+          ],
+          [
+            87.24186530920377,
+            26.321739941040626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 9,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.62055917759145,
+            28.812413734011844
+          ],
+          [
+            80.49832185385131,
+            29.169940241598642
+          ],
+          [
+            80.9872711488119,
+            29.2632080261865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 10,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.9139011773188,
+            28.212532301321755
+          ],
+          [
+            83.49278299842211,
+            28.250687304107704
+          ],
+          [
+            83.56061411448601,
+            28.360912867711537
+          ],
+          [
+            83.66518708508451,
+            28.524838064865957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 11,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.32139683564468,
+            27.717930413355838
+          ],
+          [
+            85.13415469234329,
+            27.992787748239763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 12,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.07480246578739,
+            27.939088114689177
+          ],
+          [
+            85.33199544752966,
+            27.806252179064046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 13,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.32139683564468,
+            27.717930413355838
+          ],
+          [
+            85.19915951190453,
+            27.53775401131112
+          ],
+          [
+            85.05360524201741,
+            27.403504927434646
+          ],
+          [
+            85.00979764622615,
+            27.320129180606116
+          ],
+          [
+            84.98153468119952,
+            27.24381917503423
+          ],
+          [
+            84.9984924602155,
+            27.119462128917085
+          ],
+          [
+            84.95892430917823,
+            27.034673233837214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 14,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.80308277716543,
+            27.169628891839345
+          ],
+          [
+            86.79460388765744,
+            27.07070851424616
+          ],
+          [
+            86.72112017858822,
+            26.886999241573104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 15,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3542105951846,
+            27.002877398182264
+          ],
+          [
+            87.48139393780441,
+            27.031140363208888
+          ],
+          [
+            87.56053023987896,
+            27.065055921240837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 16,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.60572112095248,
+            28.692296132648696
+          ],
+          [
+            80.62055917759145,
+            28.812413734011844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 17,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.49832185385131,
+            29.169940241598642
+          ],
+          [
+            80.68768371952969,
+            29.42995951984358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 18,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.83869297023894,
+            28.173670724410144
+          ],
+          [
+            81.24446413055418,
+            28.395534999869145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 19,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.83869297023894,
+            28.173670724410144
+          ],
+          [
+            81.65427712344022,
+            28.07051090206297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 20,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.83869297023894,
+            28.173670724410144
+          ],
+          [
+            81.90016491917186,
+            28.44923463341973
+          ],
+          [
+            81.8973386226692,
+            28.550981307515578
+          ],
+          [
+            81.84929158212393,
+            28.85056873679779
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 21,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.51841727912925,
+            27.7249961546125
+          ],
+          [
+            82.52124357563191,
+            27.99914691537075
+          ],
+          [
+            82.30361874492691,
+            28.052846548921337
+          ],
+          [
+            82.22448244285236,
+            28.25633989711303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 22,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.13686725126983,
+            28.69724215152836
+          ],
+          [
+            82.26970318689496,
+            28.66050029699375
+          ],
+          [
+            82.54668024415588,
+            28.462659541807383
+          ],
+          [
+            82.25439723800655,
+            28.179416138145122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 23,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.79539433639016,
+            28.213945449573092
+          ],
+          [
+            82.86746489720805,
+            28.06061886430365
+          ],
+          [
+            82.97062471955523,
+            28.0782832174453
+          ],
+          [
+            83.01867176010049,
+            27.94827357832283
+          ],
+          [
+            83.17411806774693,
+            27.871963572750943
+          ],
+          [
+            83.25325436982148,
+            28.030236176900036
+          ],
+          [
+            83.52457883407706,
+            27.857832090237633
+          ],
+          [
+            83.47158577465214,
+            27.66140448330259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 24,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.78408915037951,
+            27.52432910292347
+          ],
+          [
+            82.88583582447536,
+            27.53846058543678
+          ],
+          [
+            83.0554136146351,
+            27.52150280642081
+          ],
+          [
+            83.28434363135077,
+            27.493239841394185
+          ],
+          [
+            83.39174289845194,
+            27.498892434399508
+          ],
+          [
+            83.47158577465214,
+            27.66140448330259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 25,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.9338828650206,
+            27.643033556035288
+          ],
+          [
+            82.88583582447536,
+            27.53846058543678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 26,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.28434363135077,
+            27.493239841394185
+          ],
+          [
+            83.47158577465214,
+            27.66140448330259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 27,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.47158577465214,
+            27.66140448330259
+          ],
+          [
+            83.5832244865073,
+            27.566016976337743
+          ],
+          [
+            83.58887707951263,
+            27.509491046284495
+          ],
+          [
+            83.80650191021763,
+            27.419049558199298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Existing",
+        "id": 28,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.85878839551688,
+            27.537047437185446
+          ],
+          [
+            83.80650191021763,
+            27.419049558199298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 29,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.45513695757865,
+            27.664230779805255
+          ],
+          [
+            84.36822834012179,
+            27.42187585470196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 30,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.45513695757865,
+            27.664230779805255
+          ],
+          [
+            84.19582425345938,
+            27.512317342787156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 31,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.45513695757865,
+            27.664230779805255
+          ],
+          [
+            84.10820906187685,
+            27.61123772038034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 32,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.66518708508451,
+            28.524838064865957
+          ],
+          [
+            83.77753237106535,
+            28.838556976661483
+          ],
+          [
+            83.80014274308665,
+            29.05052921436116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 33,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.56394937293115,
+            27.938381540563505
+          ],
+          [
+            84.50671686875225,
+            28.02175728739205
+          ],
+          [
+            84.44453834569367,
+            28.202640263562444
+          ],
+          [
+            84.36540204361913,
+            28.278950269134327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 34,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.24175157162765,
+            28.057085993675326
+          ],
+          [
+            84.50671686875225,
+            28.02175728739205
+          ],
+          [
+            84.63955280437737,
+            28.035888769905362
+          ],
+          [
+            84.69325243792797,
+            28.064151734931986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 35,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.95892430917823,
+            27.034673233837214
+          ],
+          [
+            84.8423395784434,
+            27.045978419847863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 36,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.96084641937203,
+            26.79302488285957
+          ],
+          [
+            85.88524298792582,
+            26.76264219545596
+          ],
+          [
+            85.60543963416225,
+            26.912435910097066
+          ],
+          [
+            85.52347703558503,
+            26.827647015017195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 37,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.96084641937203,
+            26.79302488285957
+          ],
+          [
+            85.95590040049238,
+            26.672200707370763
+          ],
+          [
+            85.88524298792582,
+            26.601543294804205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 38,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.95590040049238,
+            26.672200707370763
+          ],
+          [
+            86.2243985682453,
+            26.612848480814854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 39,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.46180747446896,
+            26.581759219285566
+          ],
+          [
+            86.62219980099503,
+            26.65171005772645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 40,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.62219980099503,
+            26.65171005772645
+          ],
+          [
+            86.72747934571922,
+            26.564801440269594
+          ],
+          [
+            86.77552638626447,
+            26.533712178740306
+          ],
+          [
+            86.77270008976181,
+            26.460228469671083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 41,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.62219980099503,
+            26.65171005772645
+          ],
+          [
+            86.64269045063935,
+            26.70328996890005
+          ],
+          [
+            86.72112017858822,
+            26.886999241573104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 42,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.79460388765744,
+            27.07070851424616
+          ],
+          [
+            86.48159154998758,
+            27.36464335052305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 43,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.48139393780441,
+            27.031140363208888
+          ],
+          [
+            87.20512345466916,
+            27.42399557707896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 44,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.31605559239865,
+            26.56409486614392
+          ],
+          [
+            87.33230679728896,
+            26.652416631852127
+          ],
+          [
+            87.3747012448289,
+            26.745684416439985
+          ],
+          [
+            87.30404383226234,
+            26.946351468129016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 45,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.76190386569365,
+            27.28268075194584
+          ],
+          [
+            87.80147201673093,
+            27.07353481074882
+          ],
+          [
+            88.04170721945722,
+            26.872867759059794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 46,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.91805674746574,
+            26.631925982207814
+          ],
+          [
+            87.71597654752539,
+            26.672200707370763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 47,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.7893617541214,
+            26.65757498437785
+          ],
+          [
+            87.77815507058396,
+            26.53653847524297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 48,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.13941206098225,
+            26.545017364750954
+          ],
+          [
+            87.29672705000826,
+            26.50095496100196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 49,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.29672705000826,
+            26.50095496100196
+          ],
+          [
+            87.31746874064999,
+            26.446096987157773
+          ],
+          [
+            87.37116837420058,
+            26.42066031863381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 50,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.91805674746574,
+            26.631925982207814
+          ],
+          [
+            88.0975265753848,
+            26.519580696226996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 51,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.91805674746574,
+            26.631925982207814
+          ],
+          [
+            87.97316952926766,
+            26.785252567477258
+          ],
+          [
+            88.04170721945722,
+            26.872867759059794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 52,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.91805674746574,
+            26.631925982207814
+          ],
+          [
+            87.89968582019844,
+            26.782426270974597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 53,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.25780516433477,
+            27.121581851294085
+          ],
+          [
+            85.3538992454253,
+            27.10462407227811
+          ],
+          [
+            85.37650961744659,
+            27.02548777020356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Existing",
+        "id": 54,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.95609801267557,
+            27.83168884758801
+          ],
+          [
+            84.89674578611965,
+            27.91930403917054
+          ],
+          [
+            85.03523431475011,
+            27.939088114689177
+          ],
+          [
+            85.05219209376608,
+            27.987135155234437
+          ],
+          [
+            85.13415469234329,
+            27.992787748239763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Construction",
+        "id": 55,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.82165131661591,
+            27.65857818679993
+          ],
+          [
+            85.79197520333797,
+            28.01539812026106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Existing",
+        "id": 56,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.32139683564468,
+            27.717930413355838
+          ],
+          [
+            85.82165131661591,
+            27.65857818679993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 66,
+        "status": "Construction",
+        "id": 57,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.13415469234329,
+            27.992787748239763
+          ],
+          [
+            85.43444869575119,
+            28.142581462880873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Construction",
+        "id": 58,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.47158577465214,
+            27.66140448330259
+          ],
+          [
+            83.58887707951264,
+            27.94474070769451
+          ],
+          [
+            83.9139011773188,
+            28.212532301321755
+          ],
+          [
+            83.84607006125492,
+            28.33759592156458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Construction",
+        "id": 59,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.96084641937203,
+            26.79302488285957
+          ],
+          [
+            85.93682289909943,
+            27.008529991187594
+          ],
+          [
+            86.09226920674585,
+            27.327901495988446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Construction",
+        "id": 60,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.91805674746574,
+            26.631925982207814
+          ],
+          [
+            87.8021785908566,
+            26.875694055562462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Planned",
+        "id": 61,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.24175157162765,
+            28.057085993675326
+          ],
+          [
+            84.39684459221124,
+            28.106546182471927
+          ],
+          [
+            84.39684459221124,
+            28.174377298535823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Planned",
+        "id": 62,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.39684459221124,
+            28.106546182471927
+          ],
+          [
+            84.51872862888855,
+            27.927076354552856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Planned",
+        "id": 63,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.13415469234329,
+            27.992787748239763
+          ],
+          [
+            85.16418409268408,
+            28.283189713888326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Planned",
+        "id": 64,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.82165131661591,
+            27.65857818679993
+          ],
+          [
+            86.21203352104615,
+            27.633141518275977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Planned",
+        "id": 65,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.95892430917823,
+            27.034673233837214
+          ],
+          [
+            85.17478270456905,
+            26.942818597500693
+          ],
+          [
+            85.25780516433477,
+            27.121581851294085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 33,
+        "status": "Planned",
+        "id": 66,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.17478270456905,
+            26.942818597500693
+          ],
+          [
+            85.28218197167023,
+            26.824114144388872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 220,
+        "status": "Construction",
+        "id": 67,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.85878839551688,
+            27.537047437185446
+          ],
+          [
+            83.87821918397269,
+            27.585094477730717
+          ],
+          [
+            84.07040734615373,
+            27.6614044833026
+          ],
+          [
+            84.31912143838802,
+            27.732061895869162
+          ],
+          [
+            84.42581413136351,
+            27.70097263433988
+          ],
+          [
+            84.45513695757865,
+            27.664230779805255
+          ],
+          [
+            84.47456774603444,
+            27.629608647647657
+          ],
+          [
+            85.00714799325488,
+            27.397675690897916
+          ],
+          [
+            85.05360524201741,
+            27.403504927434646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Construction",
+        "id": 68,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.05360524201741,
+            27.403504927434646
+          ],
+          [
+            85.08151491998117,
+            27.335673811370764
+          ],
+          [
+            85.90396720225593,
+            26.790198586356922
+          ],
+          [
+            85.96084641937203,
+            26.79302488285957
+          ],
+          [
+            86.07884429835816,
+            26.746037703502815
+          ],
+          [
+            86.62219980099503,
+            26.65171005772645
+          ],
+          [
+            86.80661564779373,
+            26.62026750913434
+          ],
+          [
+            86.89988343238159,
+            26.556675837824436
+          ],
+          [
+            86.96771454844549,
+            26.555262689573105
+          ],
+          [
+            87.15354354349554,
+            26.645704177658303
+          ],
+          [
+            87.26235595884803,
+            26.565154727332423
+          ],
+          [
+            87.31605559239865,
+            26.56409486614392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "voltage_kV": 132,
+        "status": "Planned",
+        "id": 69,
+        "source": "World Bank",
+        "country": "Nepal",
+        "type": "Transmission",
+        "operator": null,
+        "undergrnd": null,
+        "phases": null,
+        "cables": null,
+        "year": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.08151491998117,
+            27.335673811370764
+          ],
+          [
+            85.11366404269896,
+            27.11628254535159
+          ]
+        ]
+      }
+    }
+  ]
+}

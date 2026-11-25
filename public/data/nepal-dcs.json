@@ -1,0 +1,3010 @@
+{
+  "type": "FeatureCollection",
+  "source": "https://nea.org.np/en/contact-information-of-dcs",
+  "scraped_at": "2026-11-25T10:16:07.508114+00:00",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koshi Provincial Office, Biratnagar",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Jitendra Kumar Jha",
+        "phone": "9852079666",
+        "email": "biratnagar.ro@nea.org.np",
+        "is_provincial_office": true,
+        "address": "H08, Biratnagar, Koshi Province 56613",
+        "geocode_source": "google_places",
+        "geocode_query": "Biratnagar, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.27792339999999,
+          26.4643804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Illam Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Rewat Kumar Chaudhary",
+        "phone": "9852620054",
+        "email": "illam@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8H8+39V, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Ilam, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315912,
+          27.67773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhadrapur Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Dhirendra Bajgain",
+        "phone": "9852630666",
+        "email": "bhadrapur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "H39C+47F, Birtamod-Chandragadhi Road, Bhadrapur, Koshi Province 57200",
+        "geocode_source": "google_places",
+        "geocode_query": "Bhadrapur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.07065829999999,
+          26.567807000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Damak Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Ram Ayodhya KumarYadav",
+        "phone": "9852682797",
+        "email": "damak@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8H8+39V, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Damak, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315912,
+          27.67773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhankuta Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Bijuli Prasad Yadav",
+        "phone": "9852070091",
+        "email": "dhankuta@nea.org.np",
+        "is_provincial_office": false,
+        "address": "X8FR+5PF, Dharan Dhankuta Hwy, Dhankuta, Koshi Province 56800",
+        "geocode_source": "google_places",
+        "geocode_query": "Dhankuta, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3418042,
+          26.9729327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dharan Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Hari Ram Pokhrel",
+        "phone": "9852062421",
+        "email": "dharan@nea.org.np",
+        "is_provincial_office": false,
+        "address": "R7CJ+35Q, Dharan, Koshi Province 56700",
+        "geocode_source": "google_places",
+        "geocode_query": "Dharan, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2804697,
+          26.8202088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biratnagar Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Ram Udgar Shah",
+        "phone": "9852021725",
+        "email": "biratnagar@nea.org.np",
+        "is_provincial_office": false,
+        "address": "H08, Biratnagar, Koshi Province 56613",
+        "geocode_source": "google_places",
+        "geocode_query": "Biratnagar, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.27792339999999,
+          26.4643804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duhabi Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Aashish Nepal",
+        "phone": "9852047666",
+        "email": "duhabi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "56707, \u0926\u0941\u0939\u0935\u0940, \u0915\u094b\u0936\u0940 \u092a\u094d\u0930\u0926\u0947\u0936 56707",
+        "geocode_source": "google_places",
+        "geocode_query": "Duhabi, Sunsari, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2832167,
+          26.572015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itahari Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Sanjeev Kumar Shah",
+        "phone": "9852080841",
+        "email": "itahari@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M749+83V, Itahari, Koshi Province 56705",
+        "geocode_source": "google_places",
+        "geocode_query": "Itahari, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.26765879999999,
+          26.655865199999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belbari Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Pankaj Kumar Goit",
+        "phone": "9852046086",
+        "email": "belbari@nea.org.np",
+        "is_provincial_office": false,
+        "address": "MC47+V87, Belbari, Koshi Province 56600",
+        "geocode_source": "google_places",
+        "geocode_query": "Belbari, Morang, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4133031,
+          26.6571559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anarmani Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Rajmani Bajgain",
+        "phone": "9852646171",
+        "email": "anarmani@nea.org.np",
+        "is_provincial_office": false,
+        "address": "JXPQ+HR6 Birtamod Electirc Substation, Birtamod-Chandragadhi Road, Birtamod, Koshi Province 57204",
+        "geocode_source": "google_places",
+        "geocode_query": "Birtamod, Jhapa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.9897622,
+          26.6361413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rangeli Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Amarjit Chaudhary",
+        "phone": "9852080650",
+        "email": "rangeli@nea.org.np",
+        "is_provincial_office": false,
+        "address": "FF7H+XM8, Drabesha, Koshi Province 56600",
+        "geocode_source": "google_places",
+        "geocode_query": "Rangeli, Morang, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.47921439999999,
+          26.464902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhojpur Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Niraj Kumar Shah",
+        "phone": "9852052377",
+        "email": "bhojpur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Bhojpur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khandbari Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Ram Babu Chaudhary",
+        "phone": "9852099588",
+        "email": "khadbari@nea.org.np",
+        "is_provincial_office": false,
+        "address": "96F5+WJP, Khandbari, Koshi Province 56900",
+        "geocode_source": "google_places",
+        "geocode_query": "Khandbari, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2090891,
+          27.3748304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tehrathum Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Satrudhan Yadav",
+        "phone": "9862359800",
+        "email": "terathum@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Tehrathum, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taplejung Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Umesh Shrestha",
+        "phone": "9852660456",
+        "email": "taplejung@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Phungling, Koshi Province 57500, Nepal",
+        "geocode_source": "google_places",
+        "geocode_query": "Taplejung, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6653577,
+          27.3524411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inaruwa Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Upendra Narayan Yadav",
+        "phone": "9852070007",
+        "email": "inaruwa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "J563+WJW, Inaruwa, Koshi Province 56710",
+        "geocode_source": "google_places",
+        "geocode_query": "Inaruwa, Sunsari, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.1540641,
+          26.6123657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urlabari Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Sagar Pokhrel",
+        "phone": "9852044140",
+        "email": "urlabari@nea.org.np",
+        "is_provincial_office": false,
+        "address": "MJ68+2FQ, Mahendra Hwy, Urlabari, Koshi Province 56604",
+        "geocode_source": "google_places",
+        "geocode_query": "Urlabari, Morang, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.61623639999999,
+          26.6600912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panchthar Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Pradip Kumar Sharma",
+        "phone": "9852684177",
+        "email": "panchthar@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Phidim, Panchthar, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gauradaha Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Ram Prasad Gyawali",
+        "phone": "9852685500",
+        "email": "gauradaha@nea.org.np",
+        "is_provincial_office": false,
+        "address": "GP9C+2VC, F02, Gauradaha, Koshi Province 57200",
+        "geocode_source": "google_places",
+        "geocode_query": "Gauradaha, Jhapa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.72214,
+          26.5175532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diktel Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Dhanraj Bista",
+        "phone": "9855011636",
+        "email": "diktel@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Diktel, Khotang, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Udayapur Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Manoj Kumar Jha",
+        "phone": "9852835668",
+        "email": "udayapur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Gaighat, Udayapur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okhaldhunga Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Rupesh Kumar Yadav",
+        "phone": "9852842268",
+        "email": "okhaldhunga@nea.org.np",
+        "is_provincial_office": false,
+        "address": "P848+2Q6, Durbar Marg, Kathmandu, Bagmati Province 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Okhaldhunga, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3168828,
+          27.7050394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhulabari Distribution Center",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Shambhu Prasad Mandal",
+        "phone": "9852661999",
+        "email": "dhulabari@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M38W+G6V, Mechinagar, Koshi Province 57207",
+        "geocode_source": "google_places",
+        "geocode_query": "Dhulabari, Jhapa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.09554709999999,
+          26.666359699999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solukhumbu Distribution Centre",
+        "province_office": "Koshi Provincial Office, Biratnagar",
+        "chief_name": "Lal Bahadur Lamsal",
+        "phone": "9852853226",
+        "email": "solukhumbu@nea.org.np",
+        "is_provincial_office": false,
+        "address": "FHQJ+93M, Unnamed Road, Dudhakunda, Koshi Province 56000",
+        "geocode_source": "google_places",
+        "geocode_query": "Salleri, Solukhumbu, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5801822,
+          27.488464699999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madhesh Provincial Office, Janakpur",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "Shambhu Kusiyait Yadav",
+        "phone": "9854024478",
+        "email": "janakpur.ro@nea.org.np",
+        "is_provincial_office": true,
+        "address": "QW3F+QJH, Mujeliya, Janakpur, Madhesh Province 45600",
+        "geocode_source": "google_places",
+        "geocode_query": "Janakpur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9241232,
+          26.754446100000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Janakpur Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9854022614",
+        "email": "janakpur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "PW9J+48H, Janakpur, Madhesh Province 45600",
+        "geocode_source": "google_places",
+        "geocode_query": "Janakpur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9309437,
+          26.717858099999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaleshwor Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9854032312",
+        "email": "jaleshwor@nea.org.np",
+        "is_provincial_office": false,
+        "address": "MR34+8XH, Jaleshwor, Madhesh Province 45700",
+        "geocode_source": "google_places",
+        "geocode_query": "Jaleshwor, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.807482,
+          26.653301499999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malangwa Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9854065777",
+        "email": "malangawa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "RHX6+W5H, Malangawa, Madhesh Province 45800",
+        "geocode_source": "google_places",
+        "geocode_query": "Malangwa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.560498,
+          26.8498095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajbiraj Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9852821459",
+        "email": "rajbiraj@nea.org.np",
+        "is_provincial_office": false,
+        "address": "GQM4+MH8, Rajbiraj Road, Rajbiraj, Madhesh Province 56400",
+        "geocode_source": "google_places",
+        "geocode_query": "Rajbiraj, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7564476,
+          26.5341559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siraha Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9852822203",
+        "email": "siraha@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M667+2RW, Siraha, Madhesh Province 56500",
+        "geocode_source": "google_places",
+        "geocode_query": "Siraha, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2145927,
+          26.6601233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lahan Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9852833646",
+        "email": "lahan@nea.org.np",
+        "is_provincial_office": false,
+        "address": "PF6C+V3, Lahan, Madhesh Province 56500",
+        "geocode_source": "google_places",
+        "geocode_query": "Lahan, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.47055809999999,
+          26.7126159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakhuwa Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9854026341",
+        "email": "sakhuwa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Sakhuwa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lalbandi Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9854066777",
+        "email": "lalbandi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "3J39+J44, Lalbandi, Madhesh Province 45801",
+        "geocode_source": "google_places",
+        "geocode_query": "Lalbandi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6178185,
+          27.0540089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirchaiya Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9852836509",
+        "email": "mirchaiya@nea.org.np",
+        "is_provincial_office": false,
+        "address": "R7P5+FQG, Mirchaiya, Madhesh Province 56500",
+        "geocode_source": "google_places",
+        "geocode_query": "Mirchaiya, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2594506,
+          26.8361065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaushala Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9854031562",
+        "email": "gaushala@nea.org.np",
+        "is_provincial_office": false,
+        "address": "WQCP+VFV, Gaushala, Madhesh Province 45700",
+        "geocode_source": "google_places",
+        "geocode_query": "Gaushala, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7861633,
+          26.922236899999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanchanpur Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9852860069",
+        "email": "kanchanpur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "JWR5+9H3, Kanchanrup, Madhesh Province 56400",
+        "geocode_source": "google_places",
+        "geocode_query": "Kanchanpur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.90893319999999,
+          26.6408894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yadukuha Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9854024334",
+        "email": "yadukuha@nea.org.np",
+        "is_provincial_office": false,
+        "address": "P3JV+PHW, Yadukuha, Madhesh Province 45600",
+        "geocode_source": "google_places",
+        "geocode_query": "Yadukuha, Dhanusha, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0939667,
+          26.7318589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birgunj Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9855026034",
+        "email": "birgunj@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Birgunj, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaur Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9855044770",
+        "email": "gaur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Gaur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalaiya Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9855049149",
+        "email": "kalaiya@nea.org.np",
+        "is_provincial_office": false,
+        "address": "2XJW+F89, Kalaiya, Madhesh Province 44400",
+        "geocode_source": "google_places",
+        "geocode_query": "Kalaiya, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9958676,
+          27.031164399999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simara Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9855021066",
+        "email": "simara@nea.org.np",
+        "is_provincial_office": false,
+        "address": "5X5F+JR9, Tribhuvan Hwy, Gadhimai, Madhesh Province 44400",
+        "geocode_source": "google_places",
+        "geocode_query": "Simara, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.97461799999999,
+          27.159027199999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandranigahpur Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9855041882",
+        "email": "chandranigahpur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Chandranigahpur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pokhariya Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9855038644",
+        "email": "pokharia@nea.org.np",
+        "is_provincial_office": false,
+        "address": "3QM4+HJ6, Pokhariya, Madhesh Province 44300",
+        "geocode_source": "google_places",
+        "geocode_query": "Pokhariya, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.7565277,
+          27.083918999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bode Barsaien Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9852823459",
+        "email": "bodebarsaien@nea.org.np",
+        "is_provincial_office": false,
+        "address": "56400 Unnamed Road, Bodebarsaien, Madhesh Province 56400",
+        "geocode_source": "google_places",
+        "geocode_query": "Bodebarsain, Saptari, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5829699,
+          26.5703049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barahathawa Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9854050415",
+        "email": "barahathawa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "P848+2Q6, Durbar Marg, Kathmandu, Bagmati Province 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Barahathawa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3168828,
+          27.7050394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhanusadham Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9854023056",
+        "email": "dhanusadham@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Unnamed Road, \u0927\u0928\u0941\u0937\u093e\u0927\u093e\u092e, \u092e\u0927\u0947\u0936 \u092a\u094d\u0930\u0926\u0947\u0936 45600",
+        "geocode_source": "google_places",
+        "geocode_query": "Dhanusadham, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0593153,
+          26.8328058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maulapur Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9855044425",
+        "email": "maulapur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "W6HC+7W8, Pataura, Madhesh Province 44500",
+        "geocode_source": "google_places",
+        "geocode_query": "Maulapur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2223393,
+          26.9281735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simrangadh Distribution Center",
+        "province_office": "Madhesh Provincial Office, Janakpur",
+        "chief_name": "",
+        "phone": "9855049993",
+        "email": "simroungarh@nea.org.np",
+        "is_provincial_office": false,
+        "address": "V4VM+7RC, Simraungadh, Madhesh Province 44400",
+        "geocode_source": "google_places",
+        "geocode_query": "Simraungadh, Bara, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13452149999999,
+          26.893178799999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagmati Province Division Office, Hetauda",
+        "province_office": "Bagmati Province Division Office, Hetauda",
+        "chief_name": "Surendra Kumar Sah",
+        "phone": "9855068052",
+        "email": "hetauda.ro@nea.org.np",
+        "is_provincial_office": true,
+        "address": "C2GF+2C8, Hetauda, Bagmati Province 44107",
+        "geocode_source": "google_places",
+        "geocode_query": "Hetauda, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0235632,
+          27.425028599999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sindhuli Distribution Center",
+        "province_office": "Bagmati Province Division Office, Hetauda",
+        "chief_name": "Mr. Shashi Kant Tiwari",
+        "phone": "9854042250",
+        "email": "sindhuli@nea.org.np",
+        "is_provincial_office": false,
+        "address": "6W39+XXV, BP Hwy, Kamalamai, Bagmati Province 45900",
+        "geocode_source": "google_places",
+        "geocode_query": "Sindhuli, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91990950000002,
+          27.204988999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palung Distribution Center",
+        "province_office": "Bagmati Province Division Office, Hetauda",
+        "chief_name": "Mr. Dipendra Kumar Budhathoki",
+        "phone": "9855067768",
+        "email": "palung@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Thaha, Bagmati Province 44100, Nepal",
+        "geocode_source": "google_places",
+        "geocode_query": "Palung, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0810602,
+          27.631297699999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hetauda Distribution Center",
+        "province_office": "Bagmati Province Division Office, Hetauda",
+        "chief_name": "Mr. Mithilesh Kumar Gohivar",
+        "phone": "9865409152",
+        "email": "hetauda@nea.org.np",
+        "is_provincial_office": false,
+        "address": "C2GF+4G2, Hetauda, Bagmati Province 44107",
+        "geocode_source": "google_places",
+        "geocode_query": "Hetauda, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.023805,
+          27.4251632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bharatpur Distribution Center",
+        "province_office": "Bagmati Province Division Office, Hetauda",
+        "chief_name": "Mr. Rajendra Kumar Chaudhary",
+        "phone": "9855082380",
+        "email": "bharatpur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Bharatpur, Bagmati Province 44200",
+        "geocode_source": "google_places",
+        "geocode_query": "Bharatpur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4360329,
+          27.6759257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tandi Distribution Center",
+        "province_office": "Bagmati Province Division Office, Hetauda",
+        "chief_name": "Mr. Pritam Raj Bista",
+        "phone": "9855083655",
+        "email": "tandi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Ratnanagar, Bagmati Province 44200",
+        "geocode_source": "google_places",
+        "geocode_query": "Tandi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5216626,
+          27.622335999999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hetauda Grid",
+        "province_office": "Bagmati Province Division Office, Hetauda",
+        "chief_name": "",
+        "phone": "",
+        "email": "hetaudagrid@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Chaukitol Tribhuvan Rajpath, Hetauda, Bagmati Province 44107",
+        "geocode_source": "google_places",
+        "geocode_query": "Hetauda, Makwanpur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0343718,
+          27.4429677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chanauli Distribution Centre",
+        "province_office": "Bagmati Province Division Office, Hetauda",
+        "chief_name": "Mr. Rudra Raj Bista",
+        "phone": "9855019312",
+        "email": "chanauli@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Gunjanagar, Nepal Near 18 no, woda office, \u091a\u093f\u0924\u094d\u0930\u0935\u0928, \u092c\u093e\u0917\u092e\u0924\u0940 \u092a\u094d\u0930\u0926\u0947\u0936 44200",
+        "geocode_source": "google_places",
+        "geocode_query": "Chanauli, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.29633919999999,
+          27.62621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hetauda Central Store",
+        "province_office": "Bagmati Province Division Office, Hetauda",
+        "chief_name": "",
+        "phone": "",
+        "email": "het.store@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Nepal Electricity Authority, Hetauda, Bagmati Province 44107",
+        "geocode_source": "google_places",
+        "geocode_query": "Hetauda, Makwanpur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0238332,
+          27.4248925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagmati Provincial Office, Kathmandu",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Munindra Thakur",
+        "phone": "9851273710",
+        "email": "kathmandu.ro@nea.org.np",
+        "is_provincial_office": true,
+        "address": "P848+2Q6, Durbar Marg, Kathmandu, Bagmati Province 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Kathmandu, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3168828,
+          27.7050394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ratnapark Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Baburam Subedi",
+        "phone": "9851273711",
+        "email": "ratnapark@nea.org.np",
+        "is_provincial_office": false,
+        "address": "P88Q+22X, Kathmandu, Bagmati Province 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Ratnapark, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3374333,
+          27.7152495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baneshwor Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "MadhuSudan Yadav",
+        "phone": "9851313322",
+        "email": "baneshwor@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8MQ+XM8, Kathmandu, Bagmati Province 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Baneshwor, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3392135,
+          27.684919299999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuleshwor Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Subodh Sharma",
+        "phone": "9851058800",
+        "email": "kuleshwor@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Kathmandu, Bagmati Province 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Kuleshwor, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2956583,
+          27.6930361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maharajgunj Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Ram Pramod Sah",
+        "phone": "9851242695",
+        "email": "maharajgunj@nea.org.np",
+        "is_provincial_office": false,
+        "address": "P8RM+G87, Kathmandu, Bagmati Province 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Maharajgunj, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3332879,
+          27.7412834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulchwok Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Rumesh Rupakheti",
+        "phone": "9851273712",
+        "email": "pulchowk@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8H8+39V, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Pulchwok, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315912,
+          27.67773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagankhel Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Jay Kumar Yadav",
+        "phone": "9851273713",
+        "email": "lagankhel@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M88C+6G2, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Lagankhel, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32127760000002,
+          27.665522499999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhaktapur Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Ramu Shrestha",
+        "phone": "9851273714",
+        "email": "bhaktapur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Bhaktapur, Bagmati Province 44800",
+        "geocode_source": "google_places",
+        "geocode_query": "Bhaktapur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4227482,
+          27.6732481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirtipur Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Dhruba Raj Karki",
+        "phone": "9851219671",
+        "email": "kirtipurdcs@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Kirtipur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thimi Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Lakhan Lal Mallik",
+        "phone": "9851273715",
+        "email": "thimi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M9FJ+R8G, \u091a\u093e\u0930 \u0926\u094b\u092c\u093e\u091f\u094b, Madhyapur Thimi, Bagmati Province 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Thimi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.380837,
+          27.674558299999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jorpati Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Sunil Sapkota",
+        "phone": "9851273716",
+        "email": "jorpati@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Jorpati, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balaju Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Megh Nath Bhattrai",
+        "phone": "9851248896",
+        "email": "balaju@nea.org.np",
+        "is_provincial_office": false,
+        "address": "44600, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0901, \u092c\u093e\u0917\u092e\u0924\u0940 \u092a\u094d\u0930\u0926\u0947\u0936 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Balaju, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2992855,
+          27.7303979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuwakot Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Rajkumar Raman",
+        "phone": "9851160177",
+        "email": "nuwakot@nea.org.np",
+        "is_provincial_office": false,
+        "address": "W47V+75C, Bidur, Bagmati Province 44900",
+        "geocode_source": "google_places",
+        "geocode_query": "Nuwakot, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1428785,
+          27.913176999999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhading Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Chutun Kumar Srivastav",
+        "phone": "9851105132",
+        "email": "dhading@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Dhading, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sindhupalchowk DCS",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Netra Mani Neupane",
+        "phone": "9851207686",
+        "email": "sindhupalchowk@nea.org.np",
+        "is_provincial_office": false,
+        "address": "QR2F+PHQ, Phulping Dandagaun, Bagmati Province 45314",
+        "geocode_source": "google_places",
+        "geocode_query": "Chautara, Sindhupalchok, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8239713,
+          27.7518466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavre Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "ShivaRam Yadav",
+        "phone": "9851273718",
+        "email": "kavre@nea.org.np",
+        "is_provincial_office": false,
+        "address": "JGM9+XF7, Banepa, Bagmati Province 45210",
+        "geocode_source": "google_places",
+        "geocode_query": "Kavre, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5186801,
+          27.634917899999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolakha Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Roshan Singh",
+        "phone": "9854045773",
+        "email": "dolakha@nea.org.np",
+        "is_provincial_office": false,
+        "address": "P5M6+MG7, Singati, Bagmati Province 45500",
+        "geocode_source": "google_places",
+        "geocode_query": "Dolakha, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.1612976,
+          27.734168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramechhap Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Shisir Lamsal",
+        "phone": "9851273719",
+        "email": "ramechap@nea.org.np",
+        "is_provincial_office": false,
+        "address": "93J4+FCV, Lamosangu-Ramechhap Highway, Manthali, Bagmati Province 45400",
+        "geocode_source": "google_places",
+        "geocode_query": "Ramechhap, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0560323,
+          27.3812484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melamchi Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Toyanath Regmi",
+        "phone": "9851273721",
+        "email": "melamchi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8H8+39V, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Melamchi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315912,
+          27.67773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rasuwa Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "GunjaMan Tamang",
+        "phone": "9851273720",
+        "email": "rasuwadcs@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Rasuwa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Transformer Workshop",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Indra Bahadur G.C",
+        "phone": "9851273717",
+        "email": "transformer@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M88C+6G2, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Transformer Workshop, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32127760000002,
+          27.665522499999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panchkhal Distribution Center",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Dipak Sapkota",
+        "phone": "9851102841",
+        "email": "panchkhal@nea.org.np",
+        "is_provincial_office": false,
+        "address": "JJV8+P7X, Araniko Highway, Panchkhal, Bagmati Province 45212",
+        "geocode_source": "google_places",
+        "geocode_query": "Panchkhal, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6157403,
+          27.6443592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Meter Testing Lab",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Rajib Kumar Sah",
+        "phone": "01-4278769",
+        "email": "mt.lab@nea.org.np",
+        "is_provincial_office": false,
+        "address": "P77V+QHG, Swayambhu Marg, Kathmandu, Bagmati Province 44600",
+        "geocode_source": "google_places",
+        "geocode_query": "Kathmandu, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2939483,
+          27.714447800000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kharipati Store Bhaktapur",
+        "province_office": "Bagmati Provincial Office, Kathmandu",
+        "chief_name": "Balram Thapa Magar",
+        "phone": "9851248490",
+        "email": "balambu@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Bhaktapur, Bagmati Province 44800",
+        "geocode_source": "google_places",
+        "geocode_query": "Kharipati, Bhaktapur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4227482,
+          27.6732481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumbini Provincial Office, Butwal",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Manoj Kumar Yadav",
+        "phone": "9857058055",
+        "email": "butwal.ro@nea.org.np",
+        "is_provincial_office": true,
+        "address": "MFJ6+WF5, Butwal, Lumbini Province 32907",
+        "geocode_source": "google_places",
+        "geocode_query": "Butwal, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4612277,
+          27.6822622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butwal Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Ritesh Gupta",
+        "phone": "9857074585",
+        "email": "butwal@nea.org.np",
+        "is_provincial_office": false,
+        "address": "MFJ6+WF5, Butwal, Lumbini Province 32907",
+        "geocode_source": "google_places",
+        "geocode_query": "Butwal, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4612277,
+          27.6822622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhairahawa Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Suraj Regmi",
+        "phone": "9857017554",
+        "email": "bhairahawa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "GFC3+WRG, Siddhartha Hwy, Siddharthanagar, Lumbini Province 32900",
+        "geocode_source": "google_places",
+        "geocode_query": "Bhairahawa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.45457449999999,
+          27.522303700000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krishnanagar Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Trilochan Bhattarai",
+        "phone": "9802532431",
+        "email": "krishnanagar@nea.org.np",
+        "is_provincial_office": false,
+        "address": "GQ5W+X9M D.C.S, Krishnanagar, Lumbini Province 32800",
+        "geocode_source": "google_places",
+        "geocode_query": "Krishnanagar, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7959197,
+          27.5099517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taulihawa Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Diwakar Pyakurel",
+        "phone": "9857052117",
+        "email": "taulihawa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "G3V7+8W6, Kapilvastu, Lumbini Province 32800",
+        "geocode_source": "google_places",
+        "geocode_query": "Taulihawa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.064775,
+          27.5432767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palpa Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Nishchal Adhikari",
+        "phone": "9857075511",
+        "email": "palpa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8H8+39V, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Palpa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315912,
+          27.67773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arghakhanchi Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Janardan Poudel",
+        "phone": "9857066824",
+        "email": "arghakhanchi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "X4PC+7X3, Sandhikharka, Lumbini Province 32700",
+        "geocode_source": "google_places",
+        "geocode_query": "Arghakhanchi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1224282,
+          27.985635000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulmi Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Manoj Aryal",
+        "phone": "9857026275",
+        "email": "gulmi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Gulmi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naya Mill Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Jagannath Lamichhane",
+        "phone": "9857042378",
+        "email": "nayamill@nea.org.np",
+        "is_provincial_office": false,
+        "address": "JFFF+CF7, Siddhartha Hwy, Tilottama, Lumbini Province 32903",
+        "geocode_source": "google_places",
+        "geocode_query": "Naya Mill, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4736846,
+          27.623527199999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bardaghat Distribution Centre",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Shiva Shankar Soni",
+        "phone": "9857081073",
+        "email": "bardaghat@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Bharatpur, Bagmati Province 44200",
+        "geocode_source": "google_places",
+        "geocode_query": "Bardaghat, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4360329,
+          27.6759257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amuwa Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Gaurav Pandey",
+        "phone": "9857014088",
+        "email": "amuwa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "HCR7+X43 paschim tole bazar, Amuwa Paschim, Lumbini Province 32900",
+        "geocode_source": "google_places",
+        "geocode_query": "Amuwa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4128032,
+          27.5923819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parasi Distribution Center",
+        "province_office": "Lumbini Provincial Office, Butwal",
+        "chief_name": "Er. Kapil Raj Pandey",
+        "phone": "9857046242",
+        "email": "parasi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8H8+39V, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Parasi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315912,
+          27.67773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumbini Provincial Division Office, Nepalgunj",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Deepak Gautam",
+        "phone": "9858072299",
+        "email": "nepalgunj.ro@nea.org.np",
+        "is_provincial_office": true,
+        "address": "3J7P+QVQ, Nepalgunj, Lumbini Province 21900",
+        "geocode_source": "google_places",
+        "geocode_query": "Nepalgunj, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6372274,
+          28.064453099999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghorahi Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Pramod Khanal",
+        "phone": "9857861201",
+        "email": "ghorahi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "2FQM+J7Q, Ghorahi, Lumbini Province 22400",
+        "geocode_source": "google_places",
+        "geocode_query": "Ghorahi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.483241,
+          28.0390907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulariya Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Sher Bahadur Sunar",
+        "phone": "9858031266",
+        "email": "gularia@nea.org.np",
+        "is_provincial_office": false,
+        "address": "Gulariya, Lumbini Province 21800",
+        "geocode_source": "google_places",
+        "geocode_query": "Gulariya, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3469781,
+          28.204907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyuthan Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Prashant Kumar Jha",
+        "phone": "9857836458",
+        "email": "pyuthan@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8H8+39V, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Pyuthan, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315912,
+          27.67773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rolpa Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Ishwor Bahadur Bista",
+        "phone": "9857886248",
+        "email": "rolpa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8H8+39V, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Rolpa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315912,
+          27.67773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulsipur Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Suresh Kumar Mahato",
+        "phone": "9857848550",
+        "email": "tulsipur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "48M2+2GQ, Tulsipur, Lumbini Province 22412",
+        "geocode_source": "google_places",
+        "geocode_query": "Tulsipur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.30118809999999,
+          28.1327175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nepalgunj Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Sanjaya Kumar Mishra",
+        "phone": "9858051177",
+        "email": "nepalgunj@nea.org.np",
+        "is_provincial_office": false,
+        "address": "3J7P+QVQ, Nepalgunj, Lumbini Province 21900",
+        "geocode_source": "google_places",
+        "geocode_query": "Nepalgunj, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6372274,
+          28.064453099999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kohalpur Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Ramesh Awasthi",
+        "phone": "9858040039",
+        "email": "kohalpur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "5MVR+44Q, Kohalpur, Lumbini Province 21904",
+        "geocode_source": "google_places",
+        "geocode_query": "Kohalpur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6903711,
+          28.1928482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamahi Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Gyan Bahadur Farsal",
+        "phone": "9857841118",
+        "email": "lamahi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "VHGF+V33, Lamahi, Lumbini Province 22414",
+        "geocode_source": "google_places",
+        "geocode_query": "Lamahi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.5726804,
+          27.8771468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajapur Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Yub Raj Rawat",
+        "phone": "9858060213",
+        "email": "rajapur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M8H8+39V, Lalitpur, Bagmati Province 44700",
+        "geocode_source": "google_places",
+        "geocode_query": "Rajapur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315912,
+          27.67773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rukum East Distribution Center",
+        "province_office": "Lumbini Provincial Division Office, Nepalgunj",
+        "chief_name": "Ishwor kumar Shrestha",
+        "phone": "9857854629",
+        "email": "rukum@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Rukum East, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gandaki Provincial Office, Pokhara",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Suraj Gautam",
+        "phone": "9856061501",
+        "email": "pokhara.ro@nea.org.np",
+        "is_provincial_office": true,
+        "address": "6X8G+RG4, Pokhara-Baglung Hwy, Pokhara, Gandaki Province 33700",
+        "geocode_source": "google_places",
+        "geocode_query": "Pokhara, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9763277,
+          28.217023599999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasoti Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Shiva Narayan Goshali",
+        "phone": "9857041388",
+        "email": "kawasoti@nea.org.np",
+        "is_provincial_office": false,
+        "address": "J4WG+C78, Kawasoti, Gandaki Province 33000",
+        "geocode_source": "google_places",
+        "geocode_query": "Kawasoti, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1257121,
+          27.646043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pokhara Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Jitendra Yadav",
+        "phone": "9856024435",
+        "email": "pokhara@nea.org.np",
+        "is_provincial_office": false,
+        "address": "6X8G+RG4, Pokhara-Baglung Hwy, Pokhara, Gandaki Province 33700",
+        "geocode_source": "google_places",
+        "geocode_query": "Pokhara, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9763277,
+          28.217023599999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lekhnath Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Sunil Poudel",
+        "phone": "9856010032",
+        "email": "lekhnath@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Lekhnath, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6240905,
+          27.647314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanahu Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Pawan Poudel",
+        "phone": "9856027333",
+        "email": "tanahu@nea.org.np",
+        "is_provincial_office": false,
+        "address": "XC82+XC9, Bandipur, Gandaki Province 33914",
+        "geocode_source": "google_places",
+        "geocode_query": "Tanahu, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4011079,
+          27.9674063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorkha Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Ram ashish Shah",
+        "phone": "9856043177",
+        "email": "gorkha@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Gorkha, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8407583,
+          28.2708368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Syangja Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Raju Mahato",
+        "phone": "9856054811",
+        "email": "syangja@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Syangja, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82767,
+          28.0445533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parbat Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Yam Kumari Gurung",
+        "phone": "9857640177",
+        "email": "parbat@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Parbat, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7280341,
+          28.2021248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arughat Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Prakash Kafle",
+        "phone": "9856013077",
+        "email": "aarughat@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Arughat, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8123842,
+          28.0462291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tatopani Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Hemraj Chapagain",
+        "phone": "9857645041",
+        "email": "tatopani@nea.org.np",
+        "is_provincial_office": false,
+        "address": "M799+9CC, Kirtipur, Bagmati Province 44618",
+        "geocode_source": "google_places",
+        "geocode_query": "Tatopani, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2680355,
+          27.6677564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myagdi Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Satya Narayan Gami",
+        "phone": "9857655403",
+        "email": "myagdi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Myagdi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4632633,
+          28.5439443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baglung Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Dilip Marasini",
+        "phone": "9857666444",
+        "email": "baglung@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Baglung, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1426241,
+          28.3562467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamjung Distribution Center",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Sobit Bahadur Chhetri",
+        "phone": "9856072321",
+        "email": "lamjung@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Lamjung, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4189441,
+          28.2875598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manang Distribution Centre",
+        "province_office": "Gandaki Provincial Office, Pokhara",
+        "chief_name": "Purushottam Regmi",
+        "phone": "9856037039",
+        "email": "manang@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Manang, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.023117,
+          28.666111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sudur-Paschim Provincial Office, Attaria",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Hari Prasad Pandey",
+        "phone": "9858488555",
+        "email": "attaria.ro@nea.org.np",
+        "is_provincial_office": true,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Attariya, Kailali, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5510167,
+          28.8029161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahendranagar Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Santosh Shrestha",
+        "phone": "9858784222",
+        "email": "mahendranagar@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Mahendranagar, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1785465,
+          28.9665746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadeldhura Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Kapil Joshi",
+        "phone": "9858786769",
+        "email": "dadeldhura@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Dadeldhura, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5008657,
+          29.2091933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tikapur Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Ananda Sapkota",
+        "phone": "9858485761",
+        "email": "tikapur@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Tikapur, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.119298,
+          28.5282679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achham Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Rajesh Kumar Jha",
+        "phone": "9858422522",
+        "email": "achham@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Achham, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2934887,
+          29.0664803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doti Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Satya Narayan Sah",
+        "phone": "9858440184",
+        "email": "doti@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Doti, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8623498,
+          29.1879107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baitadi Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Sujan Acharya",
+        "phone": "9858783333",
+        "email": "baitadi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Baitadi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5585666,
+          29.5086945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darchula Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Raushan Kumar Thakur",
+        "phone": "9858787378",
+        "email": "darchula@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Darchula, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7937159,
+          29.9127333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belauri Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Hikmat Bahadur B.C.",
+        "phone": "9858785000",
+        "email": "belauri@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Belauri, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3580811,
+          28.7007673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhajani Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Arbind Kumar Jha",
+        "phone": "9858488236",
+        "email": "bhajani@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Bhajani, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9645185,
+          28.5203016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bajura Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Gopal Kumar Yadav",
+        "phone": "9858488452",
+        "email": "bajura@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Bajura, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5770304,
+          29.6089362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bajhang Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Dinesh Poudel",
+        "phone": "9858485623",
+        "email": "bajhang@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Bajhang, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2464244,
+          29.7221692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhangadi Distribution Center",
+        "province_office": "Sudur-Paschim Provincial Office, Attaria",
+        "chief_name": "Santosh Prasad Pant",
+        "phone": "9858422456",
+        "email": "dhangadi@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Dhangadi, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2702518,
+          27.6666074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karnali Provincial Office, Surkhet",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Shashibhusan Shah",
+        "phone": "9858072399",
+        "email": "karnali@nea.org.np",
+        "is_provincial_office": true,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Surkhet, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5137825,
+          28.6573817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salyan Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Naresh Datta Rawal",
+        "phone": "9857822930",
+        "email": "salyan@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Salyan, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1675807,
+          28.4068256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surkhet Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Kiran Khanal",
+        "phone": "9858084600",
+        "email": "surkhet@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Surkhet, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5137825,
+          28.6573817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dailekh Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Tanka Raj Giri",
+        "phone": "9858029500",
+        "email": "dailekh@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Dailekh, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6997165,
+          28.8850646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gamgad Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Pusparaj Malla",
+        "phone": "9858322136",
+        "email": "gamgad@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Gamgadhi, Mugu, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.154404,
+          29.548027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalikot Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Harendra Ray Yadav",
+        "phone": "9858322705",
+        "email": "kalikot@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Kalikot, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.68842,
+          29.2160406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heldung Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Jitendra Sah",
+        "phone": "9858322178",
+        "email": "heldung@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Simikot, Humla, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8201602,
+          29.9728637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolpa Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "shreejesh Prasad",
+        "phone": "9858390081",
+        "email": "dolpa@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Dolpa, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.035804,
+          29.2144915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rukum West Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Suresh Prasad Chaudhary",
+        "phone": "9857832032",
+        "email": "rukum@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Rukum West, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.4560176,
+          28.6335955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jajarkot Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Rajendra Lal Deu",
+        "phone": "9858080375",
+        "email": "jajarkot@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Jajarkot, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1688479,
+          28.8698359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jumla Distribution Center",
+        "province_office": "Karnali Provincial Office, Surkhet",
+        "chief_name": "Lalit Mandal",
+        "phone": "9858391500",
+        "email": "jumla@nea.org.np",
+        "is_provincial_office": false,
+        "address": "",
+        "geocode_source": "nominatim",
+        "geocode_query": "Jumla, Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1979992,
+          29.2388968
+        ]
+      }
+    }
+  ]
+}

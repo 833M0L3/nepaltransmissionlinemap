@@ -1,0 +1,78 @@
+{
+  "source": "https://nea.org.np/en",
+  "scraped_at": "2026-11-25T09:52:23.630813+00:00",
+  "metrics": {
+    "nea_mwh": 7056.0,
+    "nea_subsidiary_mwh": 8560.0,
+    "ipp_mwh": 33637.0,
+    "import_mwh": 0.0,
+    "export_mwh": 10096.0,
+    "interruption_mwh": 773.0,
+    "total_energy_demand_mwh": 50026.0,
+    "national_energy_demand_mwh": 39930.0,
+    "total_peak_demand_mw": 2604.0,
+    "national_peak_demand_mw": 2182.0
+  },
+  "items": [
+    {
+      "label": "NEA",
+      "display": "7,056 MWh",
+      "value": 7056.0,
+      "unit": "MWh"
+    },
+    {
+      "label": "NEA Subsidiary Companies",
+      "display": "8,560 MWh",
+      "value": 8560.0,
+      "unit": "MWh"
+    },
+    {
+      "label": "IPP",
+      "display": "33,637 MWh",
+      "value": 33637.0,
+      "unit": "MWh"
+    },
+    {
+      "label": "Import",
+      "display": "0 MWh",
+      "value": 0.0,
+      "unit": "MWh"
+    },
+    {
+      "label": "Export",
+      "display": "10,096 MWh",
+      "value": 10096.0,
+      "unit": "MWh"
+    },
+    {
+      "label": "Interruption",
+      "display": "773 MWh",
+      "value": 773.0,
+      "unit": "MWh"
+    },
+    {
+      "label": "Total Energy Demand",
+      "display": "50,026 MWh",
+      "value": 50026.0,
+      "unit": "MWh"
+    },
+    {
+      "label": "National Energy Demand",
+      "display": "39,930 MWh",
+      "value": 39930.0,
+      "unit": "MWh"
+    },
+    {
+      "label": "Total Peak Demand",
+      "display": "2,604 MW",
+      "value": 2604.0,
+      "unit": "MW"
+    },
+    {
+      "label": "National Peak Demand",
+      "display": "2,182 MW",
+      "value": 2182.0,
+      "unit": "MW"
+    }
+  ]
+}
