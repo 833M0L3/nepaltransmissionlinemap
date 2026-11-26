@@ -138,12 +138,14 @@ export function LeafletMap({
 
     osmTileRef.current = L.tileLayer(OSM_TILE_URL, {
       attribution: OSM_ATTRIBUTION,
-      maxZoom: 19,
+      maxNativeZoom: 19,
+      maxZoom: 20,
     }).addTo(map);
 
     satelliteTileRef.current = L.tileLayer(SATELLITE_TILE_URL, {
       attribution: SATELLITE_ATTRIBUTION,
-      maxZoom: 19,
+      maxNativeZoom: 17,
+      maxZoom: 20,
     });
 
     const flowPane = map.createPane('powerFlowPane');
