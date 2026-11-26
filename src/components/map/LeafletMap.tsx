@@ -181,7 +181,11 @@ export function LeafletMap({
         return L.circleMarker(latlng, style);
       },
       onEachFeature: (feature, layer) => {
-        layer.bindPopup(buildHydropowerPopupHtml(feature.properties), { maxWidth: 320 });
+        const coords =
+          feature.geometry.type === 'Point'
+            ? (feature.geometry.coordinates as [number, number])
+            : undefined;
+        layer.bindPopup(buildHydropowerPopupHtml(feature.properties, coords), { maxWidth: 320 });
       },
     });
 
@@ -223,7 +227,11 @@ export function LeafletMap({
         return L.circleMarker(latlng, style);
       },
       onEachFeature: (feature, layer) => {
-        layer.bindPopup(buildSubstationPopupHtml(feature.properties), { maxWidth: 300 });
+        const coords =
+          feature.geometry.type === 'Point'
+            ? (feature.geometry.coordinates as [number, number])
+            : undefined;
+        layer.bindPopup(buildSubstationPopupHtml(feature.properties, coords), { maxWidth: 300 });
       },
     });
 

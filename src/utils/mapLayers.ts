@@ -80,7 +80,23 @@ function renderRow(label: string, value: string): string {
   </div>`;
 }
 
-export function buildHydropowerPopupHtml(props: HydropowerProperties): string {
+function renderGoogleMapsLink(coords?: [number, number]): string {
+  if (!coords) return '';
+  const [lng, lat] = coords;
+  const href = `https://www.google.com/maps/search/?api=1&query=${lat},${lng}`;
+  return `
+    <div class="mt-2 border-t border-slate-100 pt-1.5 text-right">
+      <a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer" class="text-[11px] font-medium text-sky-600 hover:underline">
+        View on Google Maps ↗
+      </a>
+    </div>
+  `;
+}
+
+export function buildHydropowerPopupHtml(
+  props: HydropowerProperties,
+  coords?: [number, number],
+): string {
   const licenseCfg = LICENSE_TYPE_CONFIG[props.license_type as LicenseType];
   const badgeColor = licenseCfg?.color ?? '#64748b';
 
@@ -102,6 +118,7 @@ export function buildHydropowerPopupHtml(props: HydropowerProperties): string {
         ${renderRow('Valid Until', formatBsDate(props.validity_date_years, props.validity_date_months, props.validity_date_days))}
         ${renderRow('Promoter', props.promoter || 'N/A')}
       </div>
+      ${renderGoogleMapsLink(coords)}
     </div>
   `;
 }
@@ -261,7 +278,10 @@ export function getSubstationMarkerStyle(props: SubstationProperties): CircleMar
   };
 }
 
-export function buildSubstationPopupHtml(props: SubstationProperties): string {
+export function buildSubstationPopupHtml(
+  props: SubstationProperties,
+  coords?: [number, number],
+): string {
   const { maxKv, label } = parseOsmVoltage(props.voltage);
   const { color } = getVoltageAppearance(maxKv);
   const title = props['name:en'] || props.name || 'OSM Substation';
@@ -280,6 +300,7 @@ export function buildSubstationPopupHtml(props: SubstationProperties): string {
         ${props.operator ? renderRow('Operator', props.operator) : ''}
         ${props['@id'] ? renderRow('OSM ID', props['@id']) : ''}
       </div>
+      ${renderGoogleMapsLink(coords)}
     </div>
   `;
 }

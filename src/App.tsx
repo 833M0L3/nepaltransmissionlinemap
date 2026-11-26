@@ -11,7 +11,7 @@ const INITIAL_FILTERS: MapFilters = {
   showSubstations: true,
   showDcs: true,
   showGrid: true,
-  showPowerFlow: true,
+  showPowerFlow: false,
   showTieIns: false,
   gridSource: 'osm',
   licenseTypes: {
