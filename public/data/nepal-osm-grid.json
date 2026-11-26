@@ -12,7 +12,8 @@
         "cables": "3",
         "circuits": "1",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bardaghat 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -225,7 +226,8 @@
       "id": "way/156096581",
       "properties": {
         "@id": "way/156096581",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Udipur 220kv Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -246,7 +248,8 @@
       "id": "way/156260072",
       "properties": {
         "@id": "way/156260072",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Marki Chowk Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -323,7 +326,8 @@
       "id": "way/156263593",
       "properties": {
         "@id": "way/156263593",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Marki Chowk Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -352,7 +356,8 @@
       "id": "way/156374767",
       "properties": {
         "@id": "way/156374767",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Udipur 220kv Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -380,7 +385,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kusaha 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -625,7 +631,8 @@
       "id": "way/232410539",
       "properties": {
         "@id": "way/232410539",
-        "power": "line"
+        "power": "line",
+        "name": "Gandaki Provincial Office, Pokhara–Upper Modi HydroPower Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -710,7 +717,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kudhar (Pokhara)–Upper Modi HydroPower 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -1156,7 +1164,8 @@
       "properties": {
         "@id": "way/258896711",
         "power": "minor_line",
-        "source": "Bing"
+        "source": "Bing",
+        "name": "Manang Distribution Centre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -1332,7 +1341,8 @@
         "cables": "3",
         "fixme": "i dont think voltage is correct",
         "power": "line",
-        "voltage": "15000"
+        "voltage": "15000",
+        "name": "Lagankhel–Matatirtha 15 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -1581,7 +1591,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur–Pathlaiya 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -1831,7 +1842,8 @@
         "frequency": "50",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lahan–Mirchaiya 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -2199,7 +2211,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Dhalkebar–Nawalpur 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -2748,7 +2761,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda–Pathlaiya 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -3270,7 +3284,8 @@
       "properties": {
         "@id": "way/309076137",
         "cables": "6",
-        "power": "line"
+        "power": "line",
+        "name": "Lahan Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -3303,7 +3318,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Chandranigahpur–Pathlaiya 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -3703,7 +3719,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kusaha 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -3755,7 +3772,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Damak–Duhabi 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -4370,7 +4388,8 @@
         "@id": "way/309114123",
         "cables": "6",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Patan 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -4401,7 +4420,8 @@
         "@id": "way/309114128",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Balaju–Chapali 66 kV Valley Ring Line"
       },
       "geometry": {
         "type": "LineString",
@@ -4497,7 +4517,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamosangu 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -4525,7 +4546,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -4600,7 +4622,8 @@
         "@id": "way/309114152",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -4633,7 +4656,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kulekhani–Matatirtha–Siuchatar 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -4725,7 +4749,8 @@
         "cables": "12",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000;66000"
+        "voltage": "132000;66000",
+        "name": "Siuchatar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -4756,7 +4781,8 @@
         "@id": "way/309114164",
         "cables": "6",
         "circuits": "2",
-        "power": "line"
+        "power": "line",
+        "name": "Siuchatar Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -4801,7 +4827,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kulekhani I–Matatirtha 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -5077,7 +5104,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Baneshwor–Chapali 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -5147,7 +5175,8 @@
       "properties": {
         "@id": "way/309115151",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Chapali 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -5216,7 +5245,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kulekhani–Matatirtha–Siuchatar 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -5317,7 +5347,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda–Kulekhani 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -5422,7 +5453,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -5455,7 +5487,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -5487,7 +5520,7 @@
         "cables": "3",
         "circuits": "1",
         "line": "busbar",
-        "name": "Heṭauḍā",
+        "name": "Hetauda 132 kV Substation Link",
         "power": "line",
         "voltage": "132000"
       },
@@ -5526,7 +5559,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda–Kulekhani 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -5655,7 +5689,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -5685,7 +5720,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bharatpur–Damauli 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -6034,7 +6070,8 @@
         "circuits": "1",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bharatpur–Kawasoti 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -6407,7 +6444,8 @@
       "id": "way/327547424",
       "properties": {
         "@id": "way/327547424",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Patan Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -6436,7 +6474,8 @@
       "id": "way/327730139",
       "properties": {
         "@id": "way/327730139",
-        "power": "line"
+        "power": "line",
+        "name": "Bharatpur Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -6461,7 +6500,8 @@
       "id": "way/327909711",
       "properties": {
         "@id": "way/327909711",
-        "power": "line"
+        "power": "line",
+        "name": "Bharatpur Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -6593,7 +6633,7 @@
         "addr:city": "bhaktapur",
         "addr:housenumber": "bode",
         "addr:postcode": "1400",
-        "name": "transmission line",
+        "name": "Bhaktapur Substation Link",
         "phone": "9841054844",
         "power": "line"
       },
@@ -6642,7 +6682,8 @@
         "@id": "way/340854653",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -6791,7 +6832,8 @@
       "id": "way/341232934",
       "properties": {
         "@id": "way/341232934",
-        "power": "line"
+        "power": "line",
+        "name": "Matatirtha Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7110,7 +7152,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7143,7 +7186,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7187,7 +7231,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7215,7 +7260,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7243,7 +7289,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7267,7 +7314,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Matatirtha–Siuchatar 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -7394,7 +7442,8 @@
         "@id": "way/341333938",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7446,7 +7495,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Siuchatar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7477,7 +7527,8 @@
         "@id": "way/341333940",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7516,7 +7567,8 @@
         "@id": "way/341333941",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7555,7 +7607,8 @@
         "@id": "way/341333942",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7595,7 +7648,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Siuchatar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7630,7 +7684,8 @@
         "@id": "way/341333944",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7661,7 +7716,8 @@
         "@id": "way/341333945",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7700,7 +7756,8 @@
         "@id": "way/341333946",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7733,7 +7790,8 @@
         "line": "busbar",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Siuchatar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7770,7 +7828,8 @@
         "line": "busbar",
         "power": "line",
         "source": "Bing",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7827,7 +7886,8 @@
         "line": "busbar",
         "power": "line",
         "source": "Bing",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7884,7 +7944,8 @@
         "line": "busbar",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Marsyangdi Hydro Power 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -7912,7 +7973,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Marsyangdi Hydro Power–Udipur 220kv 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -8388,7 +8450,8 @@
         "cables": "3",
         "line": "busbar",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -8440,7 +8503,8 @@
         "cables": "12",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -8462,7 +8526,8 @@
       "properties": {
         "@id": "way/341409969",
         "line": "busbar",
-        "power": "line"
+        "power": "line",
+        "name": "Matatirtha Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -8489,7 +8554,8 @@
         "@id": "way/341411456",
         "cables": "3",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Balaju–Chapali 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -8644,7 +8710,8 @@
         "@id": "way/341411457",
         "cables": "6",
         "power": "line",
-        "voltage": "132000;66000"
+        "voltage": "132000;66000",
+        "name": "Chapali 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -8695,7 +8762,8 @@
         "@id": "way/341450813",
         "cables": "12",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -8759,7 +8827,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Kulekhani I–Matatirtha 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -8791,7 +8860,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Kulekhani I–Matatirtha 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -8823,7 +8893,8 @@
         "cables": "6",
         "power": "line",
         "source": "Bing",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Kulekhani I 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -8919,7 +8990,8 @@
         "cables": "3",
         "line": "busbar",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -8970,7 +9042,8 @@
         "@id": "way/341464448",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9001,7 +9074,8 @@
         "@id": "way/341464449",
         "cables": "6",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9024,7 +9098,8 @@
         "@id": "way/341464450",
         "cables": "6",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9047,7 +9122,8 @@
         "@id": "way/341464452",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9078,7 +9154,8 @@
         "@id": "way/341464453",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9110,7 +9187,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Balaju–Siuchatar 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -9189,7 +9267,8 @@
         "@id": "way/341470429",
         "cables": "6",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Siuchatar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9212,7 +9291,8 @@
         "@id": "way/341470430",
         "cables": "3",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Marsyangdi Hydro Power–Siuchatar 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -9692,7 +9772,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Siuchatar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9724,7 +9805,8 @@
         "cables": "6",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Siuchatar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9748,7 +9830,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Siuchatar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9772,7 +9855,8 @@
         "cables": "3",
         "line": "busbar",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Balaju 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9815,7 +9899,8 @@
         "@id": "way/341495416",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Balaju 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9846,7 +9931,8 @@
         "@id": "way/341495418",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Balaju 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9873,7 +9959,8 @@
         "@id": "way/341495419",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Balaju 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9901,7 +9988,8 @@
         "cables": "3",
         "line": "busbar",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Balaju 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9944,7 +10032,8 @@
         "@id": "way/341495423",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Balaju 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -9971,7 +10060,8 @@
         "@id": "way/341495425",
         "cables": "3",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Balaju 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10002,7 +10092,7 @@
         "@id": "way/341511726",
         "cables": "3",
         "line": "busbar",
-        "name": "Bharatpur",
+        "name": "Bharatpur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000"
       },
@@ -10039,7 +10129,7 @@
         "@id": "way/341511729",
         "cables": "3",
         "line": "busbar",
-        "name": "Bharatpur",
+        "name": "Bharatpur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000"
       },
@@ -10078,7 +10168,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Matatirtha 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10238,7 +10329,8 @@
         "cables": "3",
         "line": "busbar",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Chapali 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10266,7 +10358,8 @@
         "cables": "3",
         "line": "busbar",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Baneshwor 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10298,7 +10391,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Baneshwor 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10330,7 +10424,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Baneshwor 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10362,7 +10457,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Baneshwor 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10390,7 +10486,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Baneshwor 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10417,7 +10514,7 @@
         "@id": "way/341725763",
         "cables": "3",
         "line": "busbar",
-        "name": "Damauli",
+        "name": "Damauli Substation Link",
         "power": "line"
       },
       "geometry": {
@@ -10441,7 +10538,7 @@
         "@id": "way/341820712",
         "cables": "3",
         "line": "busbar",
-        "name": "Lamahi",
+        "name": "Lamahi 132 kV Substation Link",
         "power": "line",
         "voltage": "132000"
       },
@@ -10487,7 +10584,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamahi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10521,7 +10619,7 @@
       "properties": {
         "@id": "way/341820714",
         "cables": "3",
-        "name": "Lamahi",
+        "name": "Lamahi 66 kV Substation Link",
         "power": "line",
         "voltage": "66000"
       },
@@ -10546,7 +10644,8 @@
         "@id": "way/341820715",
         "cables": "3",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Lamahi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10578,7 +10677,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamahi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10614,7 +10714,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamahi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -10650,7 +10751,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamahi–Shivapur 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -11210,7 +11312,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kohalpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -11237,7 +11340,7 @@
         "@id": "way/341820720",
         "cables": "3",
         "line": "busbar",
-        "name": "Lamahi",
+        "name": "Lamahi 132 kV Substation Link",
         "power": "line",
         "voltage": "132000"
       },
@@ -11283,7 +11386,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamahi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -11319,7 +11423,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kohalpur–Kusum 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -11884,7 +11989,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kohalpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -11916,7 +12022,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kohalpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -11944,7 +12051,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kohalpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -11968,7 +12076,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamosangu 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -11996,7 +12105,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur–Sunkoshi Hydropower Station 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -12601,7 +12711,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamosangu 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -12634,7 +12745,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamosangu 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -12675,7 +12787,8 @@
         "line": "bay",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamosangu 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -12699,7 +12812,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bhotekoshi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -12775,7 +12889,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bhotekoshi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -12800,7 +12915,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhotekoshi–Lamosangu 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -13108,7 +13224,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -13136,7 +13253,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -13160,7 +13278,8 @@
         "cables": "3",
         "line": "busbar",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -13208,7 +13327,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -13236,7 +13356,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -13262,7 +13383,7 @@
       "properties": {
         "@id": "way/342038947",
         "cables": "6",
-        "name": "Janasudhar Marg",
+        "name": "Bhaktapur–Chapali 132 kV Transmission Line",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -13505,7 +13626,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -13534,7 +13656,8 @@
         "line": "busbar",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Udipur 220kv 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -13562,7 +13685,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Udipur 220kv 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -13590,7 +13714,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Udipur 220kv 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -13618,7 +13743,7 @@
         "cables": "3",
         "circuits": "1",
         "line": "busbar",
-        "name": "Heṭauḍā",
+        "name": "Hetauda 132 kV Substation Link",
         "power": "line",
         "voltage": "132000"
       },
@@ -13657,7 +13782,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda–Bharatpur 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -13841,7 +13967,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bharatpur–Marsyangdi Hydro Power 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -14143,7 +14270,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14192,7 +14320,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14225,7 +14354,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14259,7 +14389,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14308,7 +14439,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14341,7 +14473,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14370,7 +14503,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14403,7 +14537,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14436,7 +14571,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14469,7 +14605,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pathlaiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14496,7 +14633,7 @@
         "@id": "way/342337900",
         "cables": "3",
         "circuits": "1",
-        "name": "Chandranigahpur",
+        "name": "Chandranigahpur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -14528,7 +14665,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Chandranigahpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14560,7 +14698,7 @@
         "cables": "3",
         "circuits": "1",
         "line": "busbar",
-        "name": "Chandranigahpur",
+        "name": "Chandranigahpur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -14600,7 +14738,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Chandranigahpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14632,7 +14771,7 @@
         "cables": "3",
         "circuits": "1",
         "line": "busbar",
-        "name": "Chandranigahpur",
+        "name": "Chandranigahpur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -14670,7 +14809,7 @@
         "@id": "way/342337905",
         "cables": "3",
         "circuits": "1",
-        "name": "Chandranigahpur",
+        "name": "Chandranigahpur 66 kV Substation Link",
         "power": "line",
         "voltage": "66000",
         "wires": "single"
@@ -14698,7 +14837,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Chandranigahpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14731,7 +14871,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Chandranigahpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14763,7 +14904,7 @@
         "cables": "3",
         "circuits": "1",
         "line": "busbar",
-        "name": "Parwanipur",
+        "name": "Parwanipur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -14815,7 +14956,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14848,7 +14990,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14880,7 +15023,7 @@
         "cables": "3",
         "circuits": "1",
         "line": "busbar",
-        "name": "Parwanipur",
+        "name": "Parwanipur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -14930,7 +15073,7 @@
         "@id": "way/342341055",
         "cables": "3",
         "circuits": "1",
-        "name": "Parwanipur",
+        "name": "Parwanipur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -14962,7 +15105,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -14998,7 +15142,7 @@
         "cables": "3",
         "circuits": "1",
         "line": "busbar",
-        "name": "Parwanipur",
+        "name": "Parwanipur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -15029,7 +15173,7 @@
         "cables": "3",
         "circuits": "1",
         "line": "busbar",
-        "name": "Parwanipur",
+        "name": "Parwanipur 66 kV Substation Link",
         "power": "line",
         "voltage": "66000",
         "wires": "single"
@@ -15064,7 +15208,7 @@
         "cables": "3",
         "circuits": "1",
         "line": "busbar",
-        "name": "Parwanipur",
+        "name": "Parwanipur 66 kV Substation Link",
         "power": "line",
         "voltage": "66000",
         "wires": "single"
@@ -15098,7 +15242,7 @@
         "@id": "way/342341060",
         "cables": "3",
         "circuits": "1",
-        "name": "Parwanipur",
+        "name": "Parwanipur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -15130,7 +15274,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15167,7 +15312,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15200,7 +15346,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15231,7 +15378,7 @@
         "@id": "way/342341064",
         "cables": "3",
         "circuits": "1",
-        "name": "Parwanipur",
+        "name": "Parwanipur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -15263,7 +15410,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15296,7 +15444,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15329,7 +15478,8 @@
         "circuits": "4",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15354,7 +15504,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15383,7 +15534,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15416,7 +15568,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15506,7 +15659,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15547,7 +15701,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15580,7 +15735,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15605,7 +15761,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15630,7 +15787,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15699,7 +15857,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15729,7 +15888,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15762,7 +15922,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15827,7 +15988,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Parwanipur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -15852,7 +16014,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara–Parwanipur–Birgunj 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -15973,7 +16136,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16002,7 +16166,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16032,7 +16197,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16057,7 +16223,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16090,7 +16257,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16115,7 +16283,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16144,7 +16313,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16173,7 +16343,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda–Amalekhgunj–Simara 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -16354,7 +16525,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16411,7 +16583,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Amalekhgunj–Kamane 132kv 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -16682,7 +16855,7 @@
         "@id": "way/342357364",
         "cables": "3",
         "circuits": "1",
-        "name": "Amalekhgunj",
+        "name": "Amalekhgunj 66 kV Substation Link",
         "power": "line",
         "voltage": "66000",
         "wires": "single"
@@ -16710,7 +16883,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16739,7 +16913,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Simara 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16762,7 +16937,7 @@
         "@id": "way/342370163",
         "cables": "3",
         "line": "busbar",
-        "name": "Dhalke",
+        "name": "Dhalkebar 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -16809,7 +16984,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Dhalkebar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16840,7 +17016,7 @@
         "@id": "way/342370167",
         "cables": "3",
         "line": "busbar",
-        "name": "Dhalke",
+        "name": "Dhalkebar 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -16887,7 +17063,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Dhalkebar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -16916,7 +17093,8 @@
       "id": "way/342371872",
       "properties": {
         "@id": "way/342371872",
-        "power": "line"
+        "power": "line",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -17000,7 +17178,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Dhalkebar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17032,7 +17211,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Dhalkebar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17065,7 +17245,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lahan 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17094,7 +17275,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lahan 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17127,7 +17309,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lahan 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17153,7 +17336,7 @@
       "properties": {
         "@id": "way/342383072",
         "cables": "3",
-        "name": "Lahan",
+        "name": "Lahan 132 kV Substation Link",
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
@@ -17179,7 +17362,7 @@
       "properties": {
         "@id": "way/342383073",
         "cables": "3",
-        "name": "Lahan",
+        "name": "Lahan 132 kV Substation Link",
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
@@ -17206,7 +17389,7 @@
         "@id": "way/342383074",
         "cables": "3",
         "line": "busbar",
-        "name": "Lahan",
+        "name": "Lahan 132 kV Substation Link",
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
@@ -17251,7 +17434,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lahan 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17283,7 +17467,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kusaha 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17311,7 +17496,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Dhalkebar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17339,7 +17525,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Dhalkebar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17367,7 +17554,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kusaha 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17395,7 +17583,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Duhabi–Kusaha 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -17755,7 +17944,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Duhabi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17783,7 +17973,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Duhabi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17812,7 +18003,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Duhabi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17847,7 +18039,7 @@
         "@id": "way/342389788",
         "cables": "3",
         "line": "busbar",
-        "name": "Damak",
+        "name": "Damak 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -17886,7 +18078,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Damak 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17910,7 +18103,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Damak 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17933,7 +18127,7 @@
         "@id": "way/342396688",
         "cables": "3",
         "line": "busbar",
-        "name": "Anarmani",
+        "name": "Anarmani 132 kV Substation Link",
         "power": "line",
         "voltage": "132000",
         "wires": "single"
@@ -17964,7 +18158,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Duhabi 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -17988,7 +18183,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Duhabi 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18012,7 +18208,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhotekoshi Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18036,7 +18233,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18060,7 +18258,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18083,7 +18282,7 @@
         "@id": "way/342598379",
         "cables": "3",
         "line": "busbar",
-        "name": "Lamahi",
+        "name": "Lamahi 66 kV Substation Link",
         "power": "line",
         "voltage": "66000"
       },
@@ -18117,7 +18316,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Shivapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18149,7 +18349,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Shivapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18179,7 +18380,7 @@
       "properties": {
         "@id": "way/342598383",
         "line": "busbar",
-        "name": "Shivapur",
+        "name": "Shivapur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000"
       },
@@ -18221,7 +18422,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Shivapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18251,7 +18453,7 @@
       "properties": {
         "@id": "way/342598386",
         "cables": "3",
-        "name": "Lamahi",
+        "name": "Lamahi 66 kV Substation Link",
         "power": "line",
         "voltage": "66000"
       },
@@ -18275,7 +18477,7 @@
       "properties": {
         "@id": "way/342598387",
         "line": "busbar",
-        "name": "Shivapur",
+        "name": "Shivapur 132 kV Substation Link",
         "power": "line",
         "voltage": "132000"
       },
@@ -18317,7 +18519,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Shivapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18348,7 +18551,8 @@
         "@id": "way/342598389",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kohalpur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18404,7 +18608,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Shivapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18436,7 +18641,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Shivapur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -18469,7 +18675,8 @@
         "layer": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Butwal–Shivapur 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -19202,7 +19409,8 @@
       "id": "way/342625479",
       "properties": {
         "@id": "way/342625479",
-        "power": "line"
+        "power": "line",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -19271,7 +19479,8 @@
       "id": "way/342626092",
       "properties": {
         "@id": "way/342626092",
-        "power": "line"
+        "power": "line",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -19300,7 +19509,8 @@
       "id": "way/342626680",
       "properties": {
         "@id": "way/342626680",
-        "power": "line"
+        "power": "line",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -19337,7 +19547,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Duhabi 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -19362,7 +19573,8 @@
         "circuits": "1",
         "frequency": "50",
         "power": "line",
-        "wires": "single"
+        "wires": "single",
+        "name": "Attariya–Syaule 132kv Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -20010,7 +20222,8 @@
         "cables": "3",
         "power": "line",
         "source": "Mapbox",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Pokhara 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20123,7 +20336,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pokhara 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20155,7 +20369,8 @@
         "cables": "3",
         "line": "busbar",
         "power": "line",
-        "source": "Bing"
+        "source": "Bing",
+        "name": "Pokhara Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20199,7 +20414,8 @@
         "cables": "3",
         "power": "line",
         "source": "Bing",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Pokhara–Syangja 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -20579,7 +20795,8 @@
         "cables": "3",
         "line": "busbar",
         "power": "line",
-        "source": "Bing"
+        "source": "Bing",
+        "name": "Pokhara Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20624,7 +20841,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pokhara 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20661,7 +20879,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kudhar (Pokhara)–Pokhara 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -20774,7 +20993,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kudhar (Pokhara) 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20843,7 +21063,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kudhar (Pokhara) 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20903,7 +21124,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Damauli 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20932,7 +21154,8 @@
         "line": "busbar",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Damauli 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20960,7 +21183,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Damauli 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -20984,7 +21208,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Baneshwar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -21012,7 +21237,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Baneshwar 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -21039,7 +21265,8 @@
         "@id": "way/343068664",
         "cables": "3",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Chapali 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -21063,7 +21290,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "220000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Upper Tamakoshi–New Khimti–Dhalkebar 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -21841,7 +22069,8 @@
       "id": "way/343340711",
       "properties": {
         "@id": "way/343340711",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Garjyang Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -21870,7 +22099,8 @@
       "id": "way/343340712",
       "properties": {
         "@id": "way/343340712",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Garjyang Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -21904,7 +22134,8 @@
       "properties": {
         "@id": "way/343453808",
         "fixme": "to be checked",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Garjyang Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -21933,7 +22164,8 @@
       "id": "way/343510025",
       "properties": {
         "@id": "way/343510025",
-        "power": "line"
+        "power": "line",
+        "name": "New Khimti Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -21957,7 +22189,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur–Lamosangu 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -22569,7 +22802,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Khimti Substation–Lamosangu 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -23105,7 +23339,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -23158,7 +23393,8 @@
       "id": "way/345133372",
       "properties": {
         "@id": "way/345133372",
-        "power": "line"
+        "power": "line",
+        "name": "Trishuli Hydropower Station Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -23182,7 +23418,8 @@
         "cables": "3",
         "frequency": "50",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Devighat–Trishuli Hydropower Station 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -23262,7 +23499,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Devighat 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -23307,7 +23545,8 @@
       "id": "way/345133855",
       "properties": {
         "@id": "way/345133855",
-        "power": "line"
+        "power": "line",
+        "name": "Patan Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -23331,7 +23570,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhaktapur 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -23355,7 +23595,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda–Bharatpur 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -23905,7 +24146,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Damauli–NEA Bidhut Office 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -24163,7 +24405,8 @@
       "properties": {
         "@id": "way/345314651",
         "power": "line",
-        "source": "Bing"
+        "source": "Bing",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -24193,7 +24436,8 @@
       "properties": {
         "@id": "way/345314652",
         "power": "line",
-        "source": "Bing"
+        "source": "Bing",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -24235,7 +24479,7 @@
       "properties": {
         "@id": "way/346021874",
         "cables": "3",
-        "name": "Lamahi",
+        "name": "Lamahi 66 kV Substation Link",
         "power": "line",
         "voltage": "66000"
       },
@@ -24262,7 +24506,8 @@
       "id": "way/346109596",
       "properties": {
         "@id": "way/346109596",
-        "power": "line"
+        "power": "line",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -24303,7 +24548,8 @@
       "id": "way/346110858",
       "properties": {
         "@id": "way/346110858",
-        "power": "line"
+        "power": "line",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -24344,7 +24590,8 @@
       "id": "way/346112224",
       "properties": {
         "@id": "way/346112224",
-        "power": "line"
+        "power": "line",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -24385,7 +24632,8 @@
       "id": "way/346115141",
       "properties": {
         "@id": "way/346115141",
-        "power": "line"
+        "power": "line",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -24442,7 +24690,8 @@
       "id": "way/346117860",
       "properties": {
         "@id": "way/346117860",
-        "power": "line"
+        "power": "line",
+        "name": "Lekhnath–Samundratar Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -24721,7 +24970,8 @@
         "@id": "way/392474902",
         "cables": "6",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Butwal–Syangja 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -25113,7 +25363,8 @@
         "cables": "6",
         "circuits": "2",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bardaghat 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -25174,7 +25425,8 @@
         "circuits": "1",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bardaghat–Kawasoti 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -25671,7 +25923,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Attariya–Mahendranagar 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -26132,7 +26385,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Attariya–Pahalmanpur 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -26589,7 +26843,8 @@
         "circuits": "1",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Attariya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -26614,7 +26869,8 @@
         "circuits": "1",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Attariya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -26640,7 +26896,8 @@
         "frequency": "50",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Attariya–Balach 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -28281,7 +28538,8 @@
         "circuits": "1",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Mahendranagar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -28460,7 +28718,8 @@
         "@id": "way/409621334",
         "cables": "6",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bhurigaon–Lamki 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -28949,7 +29208,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Godak (Ilam) 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -29022,7 +29282,8 @@
       "id": "way/517617838",
       "properties": {
         "@id": "way/517617838",
-        "power": "line"
+        "power": "line",
+        "name": "Duhabi Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -29070,7 +29331,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Anarmani–Damak 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -29415,7 +29677,8 @@
       "id": "way/518651657",
       "properties": {
         "@id": "way/518651657",
-        "power": "line"
+        "power": "line",
+        "name": "Duhabi Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -29452,7 +29715,8 @@
       "id": "way/518651659",
       "properties": {
         "@id": "way/518651659",
-        "power": "line"
+        "power": "line",
+        "name": "Duhabi Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -29496,7 +29760,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Damak–Godak (Ilam) 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -29880,7 +30145,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Godak (Ilam)–Mai Khola Hydro 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -30068,7 +30334,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lahan–Rupani 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -30312,7 +30579,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Balaju–Siuchatar 66 kV Valley Ring Line"
       },
       "geometry": {
         "type": "LineString",
@@ -30431,7 +30699,8 @@
         "@id": "way/765700929",
         "cables": "6",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Kusaha 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -30694,7 +30963,8 @@
         "@id": "way/765762487",
         "cables": "3",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Parwanipur–Pokhariya 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -31029,7 +31299,8 @@
         "@id": "way/824829982",
         "cables": "6",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Lamki–Pahalmanpur 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -31421,7 +31692,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bhurigaon–Kohalpur 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -32141,7 +32413,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kohalpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -32170,7 +32443,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -33074,7 +33348,8 @@
         "cables": "3",
         "circuits": "1",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bardaghat 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -33230,7 +33505,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Ghorahi–Lamahi 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -33394,7 +33670,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hapure sub-station–Kusum 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -33694,7 +33971,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kusum 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -33718,7 +33996,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kusum–Lamahi 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -34254,7 +34533,8 @@
         "cables": "6",
         "power": "line",
         "source": "Bing",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Kulekhani I 66 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -34282,7 +34562,7 @@
         "cables": "6",
         "circuits": "2",
         "frequency": "50",
-        "name": "Trishuli 3 high tension line",
+        "name": "Trishuli 3A–Matatirtha 220 kV Transmission Line",
         "power": "line",
         "voltage": "220000"
       },
@@ -34761,7 +35041,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Trishuli 3A–Matatirtha 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -34786,7 +35067,8 @@
         "circuits": "4",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Trishuli 3A–Matatirtha 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -34867,7 +35149,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -34900,7 +35183,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda–Kamane 132kv 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -34985,7 +35269,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Hetauda–Bharatpur 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -35318,7 +35603,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Hetauda–Bharatpur 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -35639,7 +35925,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Dhalkebar–Inaruwa)"
       },
       "geometry": {
         "type": "LineString",
@@ -35903,7 +36190,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Dhalkebar–Inaruwa)"
       },
       "geometry": {
         "type": "LineString",
@@ -35959,7 +36247,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Dhalkebar–Inaruwa)"
       },
       "geometry": {
         "type": "LineString",
@@ -36063,7 +36352,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Dhalkebar–Inaruwa)"
       },
       "geometry": {
         "type": "LineString",
@@ -37368,7 +37658,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Dhalkebar–Muzaffarpur 400 kV Cross-Border Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -38748,7 +39039,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lamosangu 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -38784,7 +39076,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Mai Khola Hydro 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -38828,7 +39121,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Godak (Ilam) 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -38933,7 +39227,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "66000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kamane 132kv–New Hetauda 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -38977,7 +39272,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Hetauda–Dhalkebar)"
       },
       "geometry": {
         "type": "LineString",
@@ -39009,7 +39305,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Hetauda–Dhalkebar)"
       },
       "geometry": {
         "type": "LineString",
@@ -39177,7 +39474,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Hetauda–Dhalkebar)"
       },
       "geometry": {
         "type": "LineString",
@@ -39625,7 +39923,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Balaju–Trishuli Hydropower Station 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -39927,7 +40226,8 @@
       "properties": {
         "@id": "way/826107758",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bhalche (Trishuli 3A)–Samundratar 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -40295,7 +40595,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "66000"
+        "voltage": "66000",
+        "name": "Trishuli–Devighat–Balaju 66 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -40452,7 +40753,8 @@
       "id": "way/851567420",
       "properties": {
         "@id": "way/851567420",
-        "power": "line"
+        "power": "line",
+        "name": "Dadeldhura Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -40485,7 +40787,8 @@
       "id": "way/865810297",
       "properties": {
         "@id": "way/865810297",
-        "power": "line"
+        "power": "line",
+        "name": "Dadeldhura Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -40542,7 +40845,8 @@
       "id": "way/867172307",
       "properties": {
         "@id": "way/867172307",
-        "power": "line"
+        "power": "line",
+        "name": "Mahendranagar Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -40599,7 +40903,8 @@
       "id": "way/867573546",
       "properties": {
         "@id": "way/867573546",
-        "power": "line"
+        "power": "line",
+        "name": "Baitadi Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -40624,7 +40929,8 @@
       "id": "way/867916839",
       "properties": {
         "@id": "way/867916839",
-        "power": "line"
+        "power": "line",
+        "name": "West Seti 400 KV Substation Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -40669,7 +40975,8 @@
       "id": "way/868184668",
       "properties": {
         "@id": "way/868184668",
-        "power": "line"
+        "power": "line",
+        "name": "West Seti 400 KV Substation Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -40706,7 +41013,8 @@
       "id": "way/949959177",
       "properties": {
         "@id": "way/949959177",
-        "power": "line"
+        "power": "line",
+        "name": "Kanchanpur Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -40735,7 +41043,8 @@
       "id": "way/989335808",
       "properties": {
         "@id": "way/989335808",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Nepal Electricity Authority Pokhara Branch Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -40761,7 +41070,7 @@
       "properties": {
         "@id": "way/1173469822",
         "cables": "3",
-        "name": "Hightension Pole",
+        "name": "NEA Bidhut Office 3 kV Substation Link",
         "power": "line",
         "voltage": "3200"
       },
@@ -40801,7 +41110,8 @@
       "properties": {
         "@id": "way/1278978357",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Kali Gandaki Corridor 220 kV Transmission Line (Dana–Kusma–New Butwal)"
       },
       "geometry": {
         "type": "LineString",
@@ -40998,7 +41308,8 @@
       "id": "way/1288294904",
       "properties": {
         "@id": "way/1288294904",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41021,7 +41332,8 @@
         "@id": "way/1288581845",
         "frequency": "50",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41048,7 +41360,8 @@
         "@id": "way/1288582837",
         "frequency": "50",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41071,7 +41384,8 @@
         "@id": "way/1288583431",
         "frequency": "50",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41098,7 +41412,8 @@
         "@id": "way/1288583737",
         "frequency": "50",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41121,7 +41436,8 @@
         "@id": "way/1288585334",
         "frequency": "50",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41144,7 +41460,8 @@
         "@id": "way/1288586639",
         "frequency": "50",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41165,7 +41482,8 @@
       "id": "way/1288587101",
       "properties": {
         "@id": "way/1288587101",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41188,7 +41506,8 @@
         "@id": "way/1288587277",
         "frequency": "50",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41210,7 +41529,8 @@
       "properties": {
         "@id": "way/1288587783",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41232,7 +41552,8 @@
       "properties": {
         "@id": "way/1288588354",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41254,7 +41575,8 @@
       "properties": {
         "@id": "way/1288588501",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41276,7 +41598,8 @@
       "properties": {
         "@id": "way/1288590864",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41298,7 +41621,8 @@
       "properties": {
         "@id": "way/1288591119",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41320,7 +41644,8 @@
       "properties": {
         "@id": "way/1288591770",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41342,7 +41667,8 @@
       "properties": {
         "@id": "way/1288591774",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41364,7 +41690,8 @@
       "properties": {
         "@id": "way/1288592026",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41386,7 +41713,8 @@
       "properties": {
         "@id": "way/1288592038",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41408,7 +41736,8 @@
       "properties": {
         "@id": "way/1288592346",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41430,7 +41759,8 @@
       "properties": {
         "@id": "way/1288592613",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41452,7 +41782,8 @@
       "properties": {
         "@id": "way/1288628766",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41474,7 +41805,8 @@
       "properties": {
         "@id": "way/1288634053",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41496,7 +41828,8 @@
       "properties": {
         "@id": "way/1288639302",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41518,7 +41851,8 @@
       "properties": {
         "@id": "way/1288647431",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41540,7 +41874,8 @@
       "properties": {
         "@id": "way/1288647545",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41562,7 +41897,8 @@
       "properties": {
         "@id": "way/1288840045",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41588,7 +41924,8 @@
       "properties": {
         "@id": "way/1288840936",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41618,7 +41955,8 @@
       "properties": {
         "@id": "way/1288841263",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41640,7 +41978,8 @@
       "properties": {
         "@id": "way/1288848663",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41662,7 +42001,8 @@
       "properties": {
         "@id": "way/1288849366",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41688,7 +42028,8 @@
       "properties": {
         "@id": "way/1288849849",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41726,7 +42067,8 @@
       "properties": {
         "@id": "way/1288850989",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41756,7 +42098,8 @@
       "properties": {
         "@id": "way/1288851332",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41778,7 +42121,8 @@
       "properties": {
         "@id": "way/1288851345",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41800,7 +42144,8 @@
       "properties": {
         "@id": "way/1288852141",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41822,7 +42167,8 @@
       "properties": {
         "@id": "way/1288852219",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41844,7 +42190,8 @@
       "properties": {
         "@id": "way/1288852256",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41866,7 +42213,8 @@
       "properties": {
         "@id": "way/1288852301",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41888,7 +42236,8 @@
       "properties": {
         "@id": "way/1288853017",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41910,7 +42259,8 @@
       "properties": {
         "@id": "way/1288853550",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41932,7 +42282,8 @@
       "properties": {
         "@id": "way/1288853710",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41954,7 +42305,8 @@
       "properties": {
         "@id": "way/1288853762",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41976,7 +42328,8 @@
       "properties": {
         "@id": "way/1288857739",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -41998,7 +42351,8 @@
       "properties": {
         "@id": "way/1288857906",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42020,7 +42374,8 @@
       "properties": {
         "@id": "way/1288857907",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42042,7 +42397,8 @@
       "properties": {
         "@id": "way/1288857944",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42064,7 +42420,8 @@
       "properties": {
         "@id": "way/1288857956",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42086,7 +42443,8 @@
       "properties": {
         "@id": "way/1288858001",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42108,7 +42466,8 @@
       "properties": {
         "@id": "way/1288858743",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42138,7 +42497,8 @@
       "properties": {
         "@id": "way/1288859255",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Baneshwor Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42160,7 +42520,8 @@
       "properties": {
         "@id": "way/1288860903",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42182,7 +42543,8 @@
       "properties": {
         "@id": "way/1288861104",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42204,7 +42566,8 @@
       "properties": {
         "@id": "way/1288861106",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42226,7 +42589,8 @@
       "properties": {
         "@id": "way/1288861163",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42248,7 +42612,8 @@
       "properties": {
         "@id": "way/1288861319",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42270,7 +42635,8 @@
       "properties": {
         "@id": "way/1288861361",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42292,7 +42658,8 @@
       "properties": {
         "@id": "way/1288862353",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42318,7 +42685,8 @@
       "properties": {
         "@id": "way/1288862486",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42340,7 +42708,8 @@
       "properties": {
         "@id": "way/1288862528",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42362,7 +42731,8 @@
       "properties": {
         "@id": "way/1288862899",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42384,7 +42754,8 @@
       "properties": {
         "@id": "way/1288862906",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42406,7 +42777,8 @@
       "properties": {
         "@id": "way/1288863164",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42428,7 +42800,8 @@
       "properties": {
         "@id": "way/1288863286",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42453,7 +42826,8 @@
       "id": "way/1288867947",
       "properties": {
         "@id": "way/1288867947",
-        "power": "line"
+        "power": "line",
+        "name": "Bhaktapur Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -42474,7 +42848,8 @@
       "id": "way/1288868946",
       "properties": {
         "@id": "way/1288868946",
-        "power": "line"
+        "power": "line",
+        "name": "Bhaktapur Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -42495,7 +42870,8 @@
       "id": "way/1288869091",
       "properties": {
         "@id": "way/1288869091",
-        "power": "line"
+        "power": "line",
+        "name": "Bhaktapur Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -42516,7 +42892,8 @@
       "id": "way/1288869486",
       "properties": {
         "@id": "way/1288869486",
-        "power": "line"
+        "power": "line",
+        "name": "Bhaktapur Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -42538,7 +42915,8 @@
       "properties": {
         "@id": "way/1288870228",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42560,7 +42938,8 @@
       "properties": {
         "@id": "way/1288870580",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42581,7 +42960,8 @@
       "id": "way/1288870598",
       "properties": {
         "@id": "way/1288870598",
-        "power": "line"
+        "power": "line",
+        "name": "Bhaktapur Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -42603,7 +42983,8 @@
       "properties": {
         "@id": "way/1288871171",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42625,7 +43006,8 @@
       "properties": {
         "@id": "way/1288871417",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42647,7 +43029,8 @@
       "properties": {
         "@id": "way/1288871481",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42669,7 +43052,8 @@
       "properties": {
         "@id": "way/1288871538",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42691,7 +43075,8 @@
       "properties": {
         "@id": "way/1288871918",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42713,7 +43098,8 @@
       "properties": {
         "@id": "way/1288872140",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42735,7 +43121,8 @@
       "properties": {
         "@id": "way/1288872186",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42757,7 +43144,8 @@
       "properties": {
         "@id": "way/1288874268",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Bhaktapur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42779,7 +43167,8 @@
       "properties": {
         "@id": "way/1289055408",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42805,7 +43194,8 @@
       "properties": {
         "@id": "way/1289055638",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42827,7 +43217,8 @@
       "properties": {
         "@id": "way/1289055733",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42853,7 +43244,8 @@
       "properties": {
         "@id": "way/1289059305",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42875,7 +43267,8 @@
       "properties": {
         "@id": "way/1289059311",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42897,7 +43290,8 @@
       "properties": {
         "@id": "way/1289059326",
         "power": "minor_line",
-        "voltage": "220"
+        "voltage": "220",
+        "name": "Kavre Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -42918,7 +43312,8 @@
       "id": "way/1293036058",
       "properties": {
         "@id": "way/1293036058",
-        "power": "line"
+        "power": "line",
+        "name": "Syangja Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -42947,7 +43342,8 @@
       "id": "way/1293036059",
       "properties": {
         "@id": "way/1293036059",
-        "power": "line"
+        "power": "line",
+        "name": "Syangja Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -42996,7 +43392,8 @@
       "id": "way/1304009754",
       "properties": {
         "@id": "way/1304009754",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Baneshwar Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -43027,7 +43424,8 @@
         "@id": "way/1330635036",
         "cables": "6",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Dhalkebar–Muzaffarpur 400 kV Cross-Border Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -43993,7 +44391,8 @@
       "properties": {
         "@id": "way/1330635047",
         "cables": "6",
-        "power": "line"
+        "power": "line",
+        "name": "Dhalkebar–Dhanusadham Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -44176,7 +44575,8 @@
         "@id": "way/1330635056",
         "cables": "6",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Dhalkebar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -44241,7 +44641,8 @@
         "frequency": "50",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Balach 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -44262,7 +44663,8 @@
       "id": "way/1369169466",
       "properties": {
         "@id": "way/1369169466",
-        "power": "line"
+        "power": "line",
+        "name": "Balach–Kalanga Gad Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -44344,7 +44746,8 @@
       "properties": {
         "@id": "way/1369169467",
         "fixme": "finish when satellite imagery is updated",
-        "power": "line"
+        "power": "line",
+        "name": "Balach–Kalanga Gad Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -44609,7 +45012,8 @@
       "id": "way/1369171555",
       "properties": {
         "@id": "way/1369171555",
-        "power": "line"
+        "power": "line",
+        "name": "Kalanga Gad Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -44660,7 +45064,8 @@
         "@id": "way/1369186891",
         "cables": "6",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Lamki 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -44684,7 +45089,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hapure sub-station 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -44706,7 +45112,8 @@
       "properties": {
         "@id": "way/1369201839",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Mainahiya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -44733,7 +45140,7 @@
         "@id": "way/1369214335",
         "cables": "6",
         "circuits": "2",
-        "name": "Transmission Line",
+        "name": "New Butwal 132 kV Substation Link",
         "operator": "Nepal Electricity Authority",
         "power": "line",
         "voltage": "132000"
@@ -44763,7 +45170,7 @@
         "@id": "way/1369214337",
         "cables": "6",
         "circuits": "2",
-        "name": "Transmission Line",
+        "name": "Bardaghat–Sunawal 132kv 132 kV Transmission Line",
         "operator": "Nepal Electricity Authority",
         "power": "line",
         "voltage": "132000"
@@ -45045,7 +45452,7 @@
         "@id": "way/1369214338",
         "cables": "6",
         "circuits": "2",
-        "name": "Transmission Line",
+        "name": "Sunawal 132kv 132 kV Substation Link",
         "operator": "Nepal Electricity Authority",
         "power": "line",
         "voltage": "132000"
@@ -45071,7 +45478,7 @@
         "@id": "way/1369214339",
         "cables": "6",
         "circuits": "2",
-        "name": "Transmission Line",
+        "name": "Butwal–Sunawal 132kv 132 kV Transmission Line",
         "operator": "Nepal Electricity Authority",
         "power": "line",
         "voltage": "132000"
@@ -45264,7 +45671,8 @@
       "properties": {
         "@id": "way/1369219990",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Kusma 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -45314,7 +45722,8 @@
       "properties": {
         "@id": "way/1369373441",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Kali Gandaki Corridor 220 kV Transmission Line (Dana–Kusma–New Butwal)"
       },
       "geometry": {
         "type": "LineString",
@@ -45456,7 +45865,8 @@
       "properties": {
         "@id": "way/1369373442",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Dana 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -45482,7 +45892,8 @@
       "properties": {
         "@id": "way/1369373445",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Dana 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -45512,7 +45923,8 @@
       "properties": {
         "@id": "way/1369382766",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Dana 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -45546,7 +45958,8 @@
       "properties": {
         "@id": "way/1369389227",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Modi–Kusma 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -45588,7 +46001,8 @@
       "properties": {
         "@id": "way/1369389231",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Kusma 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -45646,7 +46060,8 @@
       "properties": {
         "@id": "way/1369390494",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bhairahawa–Mainahiya 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -46047,7 +46462,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -46332,7 +46748,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -46391,7 +46808,7 @@
         "@id": "way/1369393581",
         "cables": "6",
         "circuits": "2",
-        "name": "Transmission Line",
+        "name": "Bardaghat 132 kV Substation Link",
         "operator": "Nepal Electricity Authority",
         "power": "line",
         "voltage": "132000"
@@ -46418,7 +46835,8 @@
         "cables": "7",
         "operator": "RPGCL",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Butwal–Mainahiya 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -46628,7 +47046,8 @@
       "properties": {
         "@id": "way/1369576986",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Jhimruk Powerplant site 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -46678,7 +47097,8 @@
       "properties": {
         "@id": "way/1369583005",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Motipur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -46717,7 +47137,8 @@
         "@id": "way/1369598417",
         "cables": "6",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Kali Gandaki Corridor 220 kV Transmission Line (Dana–Kusma–New Butwal)"
       },
       "geometry": {
         "type": "LineString",
@@ -47566,7 +47987,8 @@
         "layer": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Motipur–Sandikharka substation 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -47989,7 +48411,8 @@
         "@id": "way/1369607204",
         "fixme": "yes",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Kali Gandaki Corridor 220 kV Transmission Line (Dana–Kusma–New Butwal)"
       },
       "geometry": {
         "type": "LineString",
@@ -48018,7 +48441,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Hetauda–Bharatpur 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -48148,7 +48572,8 @@
       "properties": {
         "@id": "way/1369638633",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Damauli–Tanahu 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -48390,7 +48815,8 @@
       "properties": {
         "@id": "way/1369692679",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Udipur 220kv 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -48480,7 +48906,8 @@
       "properties": {
         "@id": "way/1369733803",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Koshi Corridor 220 kV Transmission Line (Inaruwa–Basantapur–Tumlingtar)"
       },
       "geometry": {
         "type": "LineString",
@@ -49206,7 +49633,8 @@
       "properties": {
         "@id": "way/1369733805",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Biratnagar–Inaruwa 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -49516,7 +49944,8 @@
       "properties": {
         "@id": "way/1369737159",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Godak (Ilam)–Phidim Substation 132kv 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -50038,7 +50467,8 @@
       "properties": {
         "@id": "way/1369739651",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Koshi Corridor 220 kV Transmission Line (Inaruwa–Basantapur–Tumlingtar)"
       },
       "geometry": {
         "type": "LineString",
@@ -50292,7 +50722,8 @@
       "properties": {
         "@id": "way/1369739652",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Koshi Corridor 220 kV Transmission Line (Inaruwa–Basantapur–Tumlingtar)"
       },
       "geometry": {
         "type": "LineString",
@@ -50409,7 +50840,8 @@
       "id": "way/1369901672",
       "properties": {
         "@id": "way/1369901672",
-        "power": "line"
+        "power": "line",
+        "name": "Phidim Substation 132kv Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -50471,7 +50903,8 @@
       "properties": {
         "@id": "way/1369910203",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Kabeli–Phidim Substation 132kv 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -50653,7 +51086,8 @@
       "properties": {
         "@id": "way/1369910204",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Kabeli 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -50745,7 +51179,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Rupani 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -50773,7 +51208,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Rupani 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -50801,7 +51237,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kusaha–Rupani 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -51149,7 +51586,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Dhalkebar–Inaruwa)"
       },
       "geometry": {
         "type": "LineString",
@@ -51182,7 +51620,8 @@
       "id": "way/1369939791",
       "properties": {
         "@id": "way/1369939791",
-        "power": "line"
+        "power": "line",
+        "name": "Tingla substation Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -51235,7 +51674,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Mirchaiya–Tingla substation 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -52368,7 +52808,8 @@
       "id": "way/1369939793",
       "properties": {
         "@id": "way/1369939793",
-        "power": "line"
+        "power": "line",
+        "name": "Tingla substation Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -52428,7 +52869,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Nawalpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -52456,7 +52898,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Nawalpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -52484,7 +52927,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Chandranigahpur–Nawalpur 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -52838,7 +53282,8 @@
       "properties": {
         "@id": "way/1369957391",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Singati–Lamosangu 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -52970,7 +53415,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "220000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Upper Tamakoshi–New Khimti–Dhalkebar 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -53002,7 +53448,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "New Khimti–Barhabise–Lapsiphedi 400 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -53468,7 +53915,8 @@
       "properties": {
         "@id": "way/1369966168",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Singati–Lamosangu 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -53893,7 +54341,8 @@
       "id": "way/1369966371",
       "properties": {
         "@id": "way/1369966371",
-        "power": "line"
+        "power": "line",
+        "name": "Barhabise–Lamosangu Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -53983,7 +54432,8 @@
       "properties": {
         "@id": "way/1370049727",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Garjyang–New Khimti 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -54293,7 +54743,8 @@
       "properties": {
         "@id": "way/1370049728",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Garjyang 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -54319,7 +54770,8 @@
       "properties": {
         "@id": "way/1370049731",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Garjyang–New Khimti 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -54753,7 +55205,8 @@
       "properties": {
         "@id": "way/1370049732",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Garjyang 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -54802,7 +55255,8 @@
       "id": "way/1370060595",
       "properties": {
         "@id": "way/1370060595",
-        "power": "line"
+        "power": "line",
+        "name": "Khimti Substation Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -55012,7 +55466,8 @@
       "properties": {
         "@id": "way/1370060596",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "New Khimti 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -55040,7 +55495,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "220000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Upper Tamakoshi–New Khimti–Dhalkebar 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -55070,7 +55526,8 @@
       "properties": {
         "@id": "way/1370060598",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "New Khimti 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -55091,7 +55548,8 @@
       "id": "way/1370060602",
       "properties": {
         "@id": "way/1370060602",
-        "power": "line"
+        "power": "line",
+        "name": "Garjyang Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -55113,7 +55571,8 @@
       "properties": {
         "@id": "way/1370060603",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Garjyang–New Khimti 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -55155,7 +55614,8 @@
       "properties": {
         "@id": "way/1370060607",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Garjyang–New Khimti 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -55224,7 +55684,8 @@
       "id": "way/1370062068",
       "properties": {
         "@id": "way/1370062068",
-        "power": "line"
+        "power": "line",
+        "name": "Barhabise–Bhotekoshi Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -55444,7 +55905,8 @@
         "cables": "6",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "New Khimti–Barhabise–Lapsiphedi 400 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -55858,7 +56320,8 @@
       "properties": {
         "@id": "way/1370118540",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Garjyang–New Khimti 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -55907,7 +56370,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda–Kulekhani 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -55960,7 +56424,8 @@
         "circuits": "1",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Hetauda–Kulekhani 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -56029,7 +56494,8 @@
         "circuits": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kamane 132kv 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56054,7 +56520,8 @@
         "frequency": "50",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Syaule 132kv 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56087,7 +56554,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Mahendranagar 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56109,7 +56577,8 @@
       "properties": {
         "@id": "way/1370833038",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Kohalpur–Surkhet 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -56377,7 +56846,8 @@
         "cables": "3",
         "circuits": "1",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bardaghat 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56401,7 +56871,8 @@
         "cables": "3",
         "circuits": "1",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bardaghat 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56425,7 +56896,8 @@
         "cables": "6",
         "circuits": "2",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bardaghat 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56450,7 +56922,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Attariya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56475,7 +56948,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Attariya 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56498,7 +56972,8 @@
         "@id": "way/1373395660",
         "cables": "6",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bhurigaon 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56521,7 +56996,8 @@
         "@id": "way/1373395661",
         "cables": "6",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bhurigaon 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56545,7 +57021,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Kusum 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -56568,7 +57045,8 @@
         "@id": "way/1373422859",
         "cables": "3",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Butwal–Syangja 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -56898,7 +57376,8 @@
       "properties": {
         "@id": "way/1373823417",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Modi–Kusma 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -56992,7 +57471,8 @@
       "properties": {
         "@id": "way/1374185406",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Lamjung–Udipur 220kv 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -57225,7 +57705,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Marsyangdi–Kathmandu 220 kV Transmission Line (Markichowk–Matatirtha)"
       },
       "geometry": {
         "type": "LineString",
@@ -57442,7 +57923,8 @@
       "id": "way/1374196414",
       "properties": {
         "@id": "way/1374196414",
-        "power": "line"
+        "power": "line",
+        "name": "Marki Chowk Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -57468,7 +57950,8 @@
       "properties": {
         "@id": "way/1374200255",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Malekhu–Palung 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -57665,7 +58148,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Marsyangdi–Kathmandu 220 kV Transmission Line (Markichowk–Matatirtha)"
       },
       "geometry": {
         "type": "LineString",
@@ -57847,7 +58331,8 @@
       "properties": {
         "@id": "way/1374207421",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Huaxin Cement–Malekhu 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -58033,7 +58518,8 @@
         "fixme": "routing might be innacurate",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Marsyangdi–Kathmandu 220 kV Transmission Line (Markichowk–Matatirtha)"
       },
       "geometry": {
         "type": "LineString",
@@ -58586,7 +59072,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Hetauda–Bharatpur 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -58680,7 +59167,8 @@
       "properties": {
         "@id": "way/1374411345",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Hetauda 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -58709,7 +59197,8 @@
         "fixme": "missing a few towers",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Hetauda–Dhalkebar)"
       },
       "geometry": {
         "type": "LineString",
@@ -59466,7 +59955,8 @@
         "fixme": "2 missing towers",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Hetauda–Dhalkebar)"
       },
       "geometry": {
         "type": "LineString",
@@ -59495,7 +59985,8 @@
         "fixme": "1 missing tower",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Hetauda–Dhalkebar)"
       },
       "geometry": {
         "type": "LineString",
@@ -59524,7 +60015,8 @@
         "fixme": "missing a few towers",
         "frequency": "50",
         "power": "line",
-        "voltage": "400000"
+        "voltage": "400000",
+        "name": "Hetauda–Dhalkebar–Inaruwa 400 kV Transmission Line (Hetauda–Dhalkebar)"
       },
       "geometry": {
         "type": "LineString",
@@ -59547,7 +60039,8 @@
         "@id": "way/1374759401",
         "fixme": "on bing but half on esri. Maybe earthquake?",
         "power": "line",
-        "source": "bing"
+        "source": "bing",
+        "name": "Barhabise–Bhotekoshi Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -59624,7 +60117,8 @@
       "id": "way/1374795578",
       "properties": {
         "@id": "way/1374795578",
-        "power": "line"
+        "power": "line",
+        "name": "Bhalche (Trishuli 3A) Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -59686,7 +60180,8 @@
       "properties": {
         "@id": "way/1375543720",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Duhabi–Koshi Provincial Office, Biratnagar 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -59827,7 +60322,8 @@
       "id": "way/1375827762",
       "properties": {
         "@id": "way/1375827762",
-        "power": "line"
+        "power": "line",
+        "name": "NEA Bidhut Office Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -59854,7 +60350,8 @@
         "@id": "way/1422310549",
         "cables": "3",
         "power": "line",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pipalla Grid–Syaule 132kv Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -60155,7 +60652,8 @@
       "id": "way/1422310550",
       "properties": {
         "@id": "way/1422310550",
-        "power": "line"
+        "power": "line",
+        "name": "Pipalla Grid Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -60180,7 +60678,8 @@
       "id": "way/1422310551",
       "properties": {
         "@id": "way/1422310551",
-        "power": "line"
+        "power": "line",
+        "name": "Pipalla Grid Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -60205,7 +60704,8 @@
       "id": "way/1422492152",
       "properties": {
         "@id": "way/1422492152",
-        "power": "line"
+        "power": "line",
+        "name": "Lahan Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -60294,7 +60794,8 @@
       "id": "way/1422492153",
       "properties": {
         "@id": "way/1422492153",
-        "power": "line"
+        "power": "line",
+        "name": "Lahan Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -60360,7 +60861,8 @@
         "frequency": "50",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Dhalkebar–Mirchaiya 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -60773,7 +61275,8 @@
       "id": "way/1427578955",
       "properties": {
         "@id": "way/1427578955",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Janakpur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -60818,7 +61321,8 @@
       "id": "way/1427578956",
       "properties": {
         "@id": "way/1427578956",
-        "power": "minor_line"
+        "power": "minor_line",
+        "name": "Janakpur Distribution Feeder"
       },
       "geometry": {
         "type": "LineString",
@@ -60851,7 +61355,8 @@
       "id": "way/1428519942",
       "properties": {
         "@id": "way/1428519942",
-        "power": "line"
+        "power": "line",
+        "name": "Udipur 220kv Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -60876,7 +61381,8 @@
         "layer": "2",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Sandikharka substation–Tamghas 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -60979,7 +61485,8 @@
         "@id": "way/1456035389",
         "fixme": "map towers when imagery is better",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Kohalpur–Surkhet 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -61000,7 +61507,8 @@
       "id": "way/1456035390",
       "properties": {
         "@id": "way/1456035390",
-        "power": "line"
+        "power": "line",
+        "name": "Kohalpur Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -61058,7 +61566,8 @@
       "properties": {
         "@id": "way/1456035391",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Kohalpur–Surkhet 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -61231,7 +61740,8 @@
       "id": "way/1456039532",
       "properties": {
         "@id": "way/1456039532",
-        "power": "line"
+        "power": "line",
+        "name": "Bhalche (Trishuli 3A) Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -61260,7 +61770,8 @@
       "id": "way/1456039533",
       "properties": {
         "@id": "way/1456039533",
-        "power": "line"
+        "power": "line",
+        "name": "Bhalche (Trishuli 3A) Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -61305,7 +61816,8 @@
       "id": "way/1456039534",
       "properties": {
         "@id": "way/1456039534",
-        "power": "line"
+        "power": "line",
+        "name": "Bhalche (Trishuli 3A) Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -61333,7 +61845,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "220000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Upper Tamakoshi–New Khimti–Dhalkebar 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -61801,7 +62314,8 @@
         "cables": "6",
         "circuits": "2",
         "frequency": "50",
-        "power": "line"
+        "power": "line",
+        "name": "Mirchaiya Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -61849,7 +62363,8 @@
         "cables": "6",
         "circuits": "2",
         "frequency": "50",
-        "power": "line"
+        "power": "line",
+        "name": "Dhanusadham–Mirchaiya Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -61958,7 +62473,8 @@
       "id": "way/1456251853",
       "properties": {
         "@id": "way/1456251853",
-        "power": "line"
+        "power": "line",
+        "name": "Balach Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -62007,7 +62523,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -62038,7 +62555,8 @@
         "@id": "way/1456273828",
         "cables": "6",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -62279,7 +62797,8 @@
         "circuits": "4",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -62354,7 +62873,8 @@
         "@id": "way/1456273830",
         "cables": "6",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -62381,7 +62901,8 @@
         "@id": "way/1456273831",
         "cables": "6",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -62409,7 +62930,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bharatpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -62437,7 +62959,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bharatpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -62471,7 +62994,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bharatpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -62508,7 +63032,8 @@
         "circuits": "1",
         "frequency": "50",
         "power": "line",
-        "voltage": "132000"
+        "voltage": "132000",
+        "name": "Bharatpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -62544,7 +63069,8 @@
         "cables": "3",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bharatpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -62598,7 +63124,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Bharatpur 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -62651,7 +63178,8 @@
         "circuits": "2",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -62696,7 +63224,8 @@
         "circuits": "4",
         "frequency": "50",
         "power": "line",
-        "voltage": "220000"
+        "voltage": "220000",
+        "name": "Bharatpur–Bardaghat–New Butwal 220 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -62756,7 +63285,8 @@
         "cables": "6",
         "circuits": "2",
         "frequency": "50",
-        "power": "line"
+        "power": "line",
+        "name": "Damauli–Tanahu Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -62937,7 +63467,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pokhara 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -62962,7 +63493,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Pokhara 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -62995,7 +63527,8 @@
         "power": "line",
         "source": "Bing",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Damauli 132 kV Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -63016,7 +63549,8 @@
       "id": "way/1530030625",
       "properties": {
         "@id": "way/1530030625",
-        "power": "line"
+        "power": "line",
+        "name": "Dhungesangu 220kv Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -63045,7 +63579,8 @@
       "id": "way/1530030626",
       "properties": {
         "@id": "way/1530030626",
-        "power": "line"
+        "power": "line",
+        "name": "Dhungesangu 220kv Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -63085,7 +63620,8 @@
         "cables": "6",
         "power": "line",
         "voltage": "132000",
-        "wires": "single"
+        "wires": "single",
+        "name": "Lahan–Rupani 132 kV Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -63218,7 +63754,8 @@
       "id": "way/1552947581",
       "properties": {
         "@id": "way/1552947581",
-        "power": "line"
+        "power": "line",
+        "name": "Bhalche (Trishuli 3A) Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -63251,7 +63788,8 @@
       "id": "way/1553080088",
       "properties": {
         "@id": "way/1553080088",
-        "power": "line"
+        "power": "line",
+        "name": "Bhalche (Trishuli 3A) Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -63704,7 +64242,8 @@
       "id": "way/1554189136",
       "properties": {
         "@id": "way/1554189136",
-        "power": "line"
+        "power": "line",
+        "name": "Bhalche (Trishuli 3A) Transmission Line"
       },
       "geometry": {
         "type": "LineString",
@@ -63733,7 +64272,8 @@
       "id": "way/1554405313",
       "properties": {
         "@id": "way/1554405313",
-        "power": "line"
+        "power": "line",
+        "name": "Bhalche (Trishuli 3A) Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -63831,7 +64371,8 @@
       "id": "way/1557306392",
       "properties": {
         "@id": "way/1557306392",
-        "power": "line"
+        "power": "line",
+        "name": "Bhalche (Trishuli 3A) Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -63888,7 +64429,8 @@
       "id": "way/1557572770",
       "properties": {
         "@id": "way/1557572770",
-        "power": "line"
+        "power": "line",
+        "name": "Tamghas Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -64019,7 +64561,8 @@
         "@id": "way/1557575343",
         "cables": "6",
         "fixme": "check number of cables",
-        "power": "line"
+        "power": "line",
+        "name": "Dhalkebar Substation Link"
       },
       "geometry": {
         "type": "LineString",
@@ -64040,7 +64583,8 @@
       "id": "way/1557575678",
       "properties": {
         "@id": "way/1557575678",
-        "power": "line"
+        "power": "line",
+        "name": "Dana Substation Link"
       },
       "geometry": {
         "type": "LineString",

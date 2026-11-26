@@ -131,7 +131,7 @@ export function buildGridLinePopupHtml(props: GridLineProperties): string {
 export function buildOsmGridPopupHtml(props: OsmGridProperties): string {
   const { maxKv, label } = parseOsmVoltage(props.voltage);
   const { color } = getVoltageAppearance(maxKv);
-  const title = props.name || `OSM Power ${props.power === 'minor_line' ? 'Minor Line' : 'Line'}`;
+  const title = props.name || (props.power === 'minor_line' ? 'Distribution Line' : 'Transmission Line');
 
   return `
     <div class="text-xs leading-relaxed text-slate-800">
