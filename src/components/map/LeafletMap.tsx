@@ -115,6 +115,7 @@ export function LeafletMap({
   const flowLayerRef = useRef<L.LayerGroup | null>(null);
   const tieInsLayerRef = useRef<L.LayerGroup | null>(null);
   const svgRendererRef = useRef<L.SVG | null>(null);
+  const flowSvgRendererRef = useRef<L.SVG | null>(null);
 
   // Initialize Leaflet map and OSM tile layer once, centered on Nepal
   useEffect(() => {
@@ -134,7 +135,12 @@ export function LeafletMap({
       maxZoom: 19,
     }).addTo(map);
 
+    const flowPane = map.createPane('powerFlowPane');
+    flowPane.style.zIndex = '410';
+    flowPane.style.pointerEvents = 'none';
+
     svgRendererRef.current = L.svg().addTo(map);
+    flowSvgRendererRef.current = L.svg({ pane: 'powerFlowPane' }).addTo(map);
     tieInsLayerRef.current = L.layerGroup().addTo(map);
     osmGridLayerRef.current = L.layerGroup().addTo(map);
     gridLayerRef.current = L.layerGroup().addTo(map);
@@ -157,6 +163,7 @@ export function LeafletMap({
       flowLayerRef.current = null;
       tieInsLayerRef.current = null;
       svgRendererRef.current = null;
+      flowSvgRendererRef.current = null;
     };
   }, []);
 
@@ -313,8 +320,8 @@ export function LeafletMap({
   // Render animated modeled power flow lines
   useEffect(() => {
     const layerGroup = flowLayerRef.current;
-    const svgRenderer = svgRendererRef.current;
-    if (!layerGroup || !svgRenderer) return;
+    const flowRenderer = flowSvgRendererRef.current;
+    if (!layerGroup || !flowRenderer) return;
 
     layerGroup.clearLayers();
     if (flowSegments.length === 0) return;
@@ -322,7 +329,7 @@ export function LeafletMap({
     for (const seg of flowSegments) {
       const weight = Math.min(6, Math.max(2, 1.5 + Math.sqrt(seg.flowMw) * 0.16));
       const polyline = L.polyline(seg.latLngs, {
-        renderer: svgRenderer,
+        renderer: flowRenderer,
         color: '#fbbf24', // amber-400
         weight,
         opacity: 0.92,

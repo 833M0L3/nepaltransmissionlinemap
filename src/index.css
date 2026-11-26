@@ -38,6 +38,6 @@
 }
 
 .interactive-line {
-  cursor: pointer;
+  pointer-events: none;
   transition: stroke-width 180ms cubic-bezier(0.22, 1, 0.36, 1), stroke-opacity 180ms ease;
 }
