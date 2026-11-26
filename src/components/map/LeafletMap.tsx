@@ -17,7 +17,6 @@ import type {
 } from '../../types/geospatial';
 import {
   buildDcsPopupHtml,
-  buildFlowPopupHtml,
   buildGridLinePopupHtml,
   buildHydropowerPopupHtml,
   buildOsmGridPopupHtml,
@@ -328,11 +327,10 @@ export function LeafletMap({
         weight,
         opacity: 0.92,
         dashArray: '8 12',
-        className: 'power-flow-line interactive-line',
+        interactive: false,
+        className: 'power-flow-line',
       });
-      polyline.bindPopup(buildFlowPopupHtml(seg), { maxWidth: 260 });
       polyline.addTo(layerGroup);
-      attachInteractiveLineBehavior(polyline, weight, 0.92, svgRenderer, layerGroup);
     }
   }, [flowSegments]);
 
