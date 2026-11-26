@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Map as MapIcon, Satellite } from 'lucide-react';
 import { LeafletMap } from './components/map/LeafletMap';
 import { MapLegend } from './components/map/MapLegend';
 import { Sidebar } from './components/sidebar/Sidebar';
@@ -34,6 +35,7 @@ const INITIAL_FILTERS: MapFilters = {
 export function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [filters, setFilters] = useState<MapFilters>(INITIAL_FILTERS);
+  const [basemap, setBasemap] = useState<'osm' | 'satellite'>('osm');
   const [resetTrigger, setResetTrigger] = useState(0);
 
   const {
@@ -65,8 +67,32 @@ export function App() {
         osmGrid={filteredOsmGrid}
         flowSegments={flowSegments}
         tieInLines={tieInLines}
+        basemap={basemap}
         resetTrigger={resetTrigger}
       />
+
+      {/* Top-right basemap toggle (left of Leaflet zoom controls) */}
+      <div className="pointer-events-none absolute right-14 top-2.5 z-1000">
+        <button
+          type="button"
+          onClick={() => setBasemap((b) => (b === 'osm' ? 'satellite' : 'osm'))}
+          className="pointer-events-auto flex items-center gap-1.5 rounded-xl border border-gray-200 bg-white px-3 py-2 text-xs font-semibold text-gray-700 shadow-md transition-shadow hover:bg-gray-50 hover:shadow-lg"
+          aria-label={basemap === 'osm' ? 'Switch to satellite view' : 'Switch to street map'}
+          title={basemap === 'osm' ? 'Switch to Satellite View' : 'Switch to Street Map'}
+        >
+          {basemap === 'osm' ? (
+            <>
+              <Satellite className="h-3.5 w-3.5 text-blue-500" />
+              <span>Satellite</span>
+            </>
+          ) : (
+            <>
+              <MapIcon className="h-3.5 w-3.5 text-blue-500" />
+              <span>Street Map</span>
+            </>
+          )}
+        </button>
+      </div>
 
       {/* Top-left floating sidebar */}
       <div className="pointer-events-none absolute left-4 top-4 z-1000">

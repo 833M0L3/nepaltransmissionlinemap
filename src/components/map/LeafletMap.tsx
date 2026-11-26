@@ -4,6 +4,8 @@ import {
   NEPAL_BOUNDS,
   OSM_ATTRIBUTION,
   OSM_TILE_URL,
+  SATELLITE_ATTRIBUTION,
+  SATELLITE_TILE_URL,
 } from '../../constants/mapConfig';
 import type {
   DcsCollection,
@@ -40,6 +42,7 @@ interface LeafletMapProps {
   osmGrid: OsmGridCollection | null;
   flowSegments: FlowSegment[];
   tieInLines: TieInLine[];
+  basemap: 'osm' | 'satellite';
   resetTrigger: number;
 }
 
@@ -102,10 +105,13 @@ export function LeafletMap({
   osmGrid,
   flowSegments,
   tieInLines,
+  basemap,
   resetTrigger,
 }: LeafletMapProps) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<L.Map | null>(null);
+  const osmTileRef = useRef<L.TileLayer | null>(null);
+  const satelliteTileRef = useRef<L.TileLayer | null>(null);
   const hydroLayerRef = useRef<L.LayerGroup | null>(null);
   const stationsLayerRef = useRef<L.LayerGroup | null>(null);
   const substationsLayerRef = useRef<L.LayerGroup | null>(null);
@@ -130,10 +136,15 @@ export function LeafletMap({
     L.control.zoom({ position: 'topright' }).addTo(map);
     L.control.scale({ position: 'bottomleft', imperial: false }).addTo(map);
 
-    L.tileLayer(OSM_TILE_URL, {
+    osmTileRef.current = L.tileLayer(OSM_TILE_URL, {
       attribution: OSM_ATTRIBUTION,
       maxZoom: 19,
     }).addTo(map);
+
+    satelliteTileRef.current = L.tileLayer(SATELLITE_TILE_URL, {
+      attribution: SATELLITE_ATTRIBUTION,
+      maxZoom: 19,
+    });
 
     const flowPane = map.createPane('powerFlowPane');
     flowPane.style.zIndex = '410';
@@ -164,8 +175,26 @@ export function LeafletMap({
       tieInsLayerRef.current = null;
       svgRendererRef.current = null;
       flowSvgRendererRef.current = null;
+      osmTileRef.current = null;
+      satelliteTileRef.current = null;
     };
   }, []);
+
+  // Switch between OSM Street and Satellite basemap
+  useEffect(() => {
+    const map = mapRef.current;
+    const osmTile = osmTileRef.current;
+    const satTile = satelliteTileRef.current;
+    if (!map || !osmTile || !satTile) return;
+
+    if (basemap === 'satellite') {
+      if (map.hasLayer(osmTile)) map.removeLayer(osmTile);
+      if (!map.hasLayer(satTile)) satTile.addTo(map);
+    } else {
+      if (map.hasLayer(satTile)) map.removeLayer(satTile);
+      if (!map.hasLayer(osmTile)) osmTile.addTo(map);
+    }
+  }, [basemap]);
 
   // Render hydropower circle markers
   useEffect(() => {
