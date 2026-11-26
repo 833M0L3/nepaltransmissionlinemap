@@ -35,3 +35,8 @@
 .power-flow-line {
   animation: power-flow-dash 0.9s linear infinite;
 }
+
+.interactive-line {
+  cursor: pointer;
+  transition: stroke-width 180ms cubic-bezier(0.22, 1, 0.36, 1), stroke-opacity 180ms ease;
+}

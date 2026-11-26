@@ -44,6 +44,56 @@ interface LeafletMapProps {
   resetTrigger: number;
 }
 
+/**
+ * Adds a wide invisible hit-target over a polyline and smoothly expands
+ * the visible stroke on mouse hover, touch, or active popup.
+ */
+function attachInteractiveLineBehavior(
+  visibleLine: L.Polyline,
+  baseWeight: number,
+  baseOpacity: number,
+  svgRenderer: L.SVG,
+  targetGroup: L.LayerGroup,
+) {
+  const expandedWeight = baseWeight + 3.5;
+
+  const expand = () => {
+    visibleLine.setStyle({ weight: expandedWeight, opacity: 1 });
+    visibleLine.bringToFront();
+  };
+
+  const reset = () => {
+    if (!visibleLine.isPopupOpen()) {
+      visibleLine.setStyle({ weight: baseWeight, opacity: baseOpacity });
+    }
+  };
+
+  const hitTarget = L.polyline(
+    visibleLine.getLatLngs() as L.LatLngExpression[] | L.LatLngExpression[][],
+    {
+      renderer: svgRenderer,
+      weight: 16,
+      opacity: 0,
+      fill: false,
+      className: 'cursor-pointer',
+    },
+  );
+
+  hitTarget.on('mouseover', expand);
+  hitTarget.on('mouseout', reset);
+  hitTarget.on('touchstart', expand);
+  hitTarget.on('click', (e: L.LeafletMouseEvent) => {
+    visibleLine.openPopup(e.latlng);
+  });
+
+  visibleLine.on('popupopen', expand);
+  visibleLine.on('popupclose', () => {
+    visibleLine.setStyle({ weight: baseWeight, opacity: baseOpacity });
+  });
+
+  hitTarget.addTo(targetGroup);
+}
+
 export function LeafletMap({
   hydropower,
   powerStations,
@@ -198,16 +248,30 @@ export function LeafletMap({
   // Render World Bank Nepal transmission grid polylines
   useEffect(() => {
     const layerGroup = gridLayerRef.current;
-    if (!layerGroup) return;
+    const svgRenderer = svgRendererRef.current;
+    if (!layerGroup || !svgRenderer) return;
 
     layerGroup.clearLayers();
     if (!grid) return;
 
     const geoJsonLayer = L.geoJSON(grid, {
-      style: (feature) =>
-        feature ? getGridLineStyle(feature.properties) : { color: '#64748b', weight: 2.5 },
+      style: (feature) => {
+        const base = feature
+          ? getGridLineStyle(feature.properties)
+          : { color: '#64748b', weight: 2.5, opacity: 0.9 };
+        return { ...base, renderer: svgRenderer, className: 'interactive-line' };
+      },
       onEachFeature: (feature, layer) => {
-        layer.bindPopup(buildGridLinePopupHtml(feature.properties), { maxWidth: 280 });
+        const polyline = layer as L.Polyline;
+        const base = getGridLineStyle(feature.properties);
+        polyline.bindPopup(buildGridLinePopupHtml(feature.properties), { maxWidth: 280 });
+        attachInteractiveLineBehavior(
+          polyline,
+          base.weight ?? 2.5,
+          base.opacity ?? 0.9,
+          svgRenderer,
+          layerGroup,
+        );
       },
     });
 
@@ -217,16 +281,30 @@ export function LeafletMap({
   // Render OSM export transmission grid polylines
   useEffect(() => {
     const layerGroup = osmGridLayerRef.current;
-    if (!layerGroup) return;
+    const svgRenderer = svgRendererRef.current;
+    if (!layerGroup || !svgRenderer) return;
 
     layerGroup.clearLayers();
     if (!osmGrid) return;
 
     const geoJsonLayer = L.geoJSON(osmGrid, {
-      style: (feature) =>
-        feature ? getOsmGridLineStyle(feature.properties) : { color: '#64748b', weight: 2 },
+      style: (feature) => {
+        const base = feature
+          ? getOsmGridLineStyle(feature.properties)
+          : { color: '#64748b', weight: 2, opacity: 0.9 };
+        return { ...base, renderer: svgRenderer, className: 'interactive-line' };
+      },
       onEachFeature: (feature, layer) => {
-        layer.bindPopup(buildOsmGridPopupHtml(feature.properties), { maxWidth: 300 });
+        const polyline = layer as L.Polyline;
+        const base = getOsmGridLineStyle(feature.properties);
+        polyline.bindPopup(buildOsmGridPopupHtml(feature.properties), { maxWidth: 300 });
+        attachInteractiveLineBehavior(
+          polyline,
+          base.weight ?? 2,
+          base.opacity ?? 0.9,
+          svgRenderer,
+          layerGroup,
+        );
       },
     });
 
@@ -250,30 +328,35 @@ export function LeafletMap({
         weight,
         opacity: 0.92,
         dashArray: '8 12',
-        className: 'power-flow-line',
+        className: 'power-flow-line interactive-line',
       });
       polyline.bindPopup(buildFlowPopupHtml(seg), { maxWidth: 260 });
       polyline.addTo(layerGroup);
+      attachInteractiveLineBehavior(polyline, weight, 0.92, svgRenderer, layerGroup);
     }
   }, [flowSegments]);
 
   // Render nearest substation tie-in spurs
   useEffect(() => {
     const layerGroup = tieInsLayerRef.current;
-    if (!layerGroup) return;
+    const svgRenderer = svgRendererRef.current;
+    if (!layerGroup || !svgRenderer) return;
 
     layerGroup.clearLayers();
     if (tieInLines.length === 0) return;
 
     for (const tie of tieInLines) {
       const polyline = L.polyline(tie.latLngs, {
+        renderer: svgRenderer,
         color: tie.kind === 'generation' ? '#34d399' : '#c084fc',
         weight: 1.5,
         opacity: 0.75,
         dashArray: '4 4',
+        className: 'interactive-line',
       });
       polyline.bindPopup(buildTieInPopupHtml(tie), { maxWidth: 260 });
       polyline.addTo(layerGroup);
+      attachInteractiveLineBehavior(polyline, 1.5, 0.75, svgRenderer, layerGroup);
     }
   }, [tieInLines]);
 
