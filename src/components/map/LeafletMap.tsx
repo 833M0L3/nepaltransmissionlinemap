@@ -269,11 +269,12 @@ export function LeafletMap({
     if (!grid) return;
 
     const geoJsonLayer = L.geoJSON(grid, {
+      interactive: false,
       style: (feature) => {
         const base = feature
           ? getGridLineStyle(feature.properties)
           : { color: '#64748b', weight: 2.5, opacity: 0.9 };
-        return { ...base, renderer: svgRenderer, className: 'interactive-line' };
+        return { ...base, renderer: svgRenderer, interactive: false, className: 'interactive-line' };
       },
       onEachFeature: (feature, layer) => {
         const polyline = layer as L.Polyline;
@@ -302,11 +303,12 @@ export function LeafletMap({
     if (!osmGrid) return;
 
     const geoJsonLayer = L.geoJSON(osmGrid, {
+      interactive: false,
       style: (feature) => {
         const base = feature
           ? getOsmGridLineStyle(feature.properties)
           : { color: '#64748b', weight: 2, opacity: 0.9 };
-        return { ...base, renderer: svgRenderer, className: 'interactive-line' };
+        return { ...base, renderer: svgRenderer, interactive: false, className: 'interactive-line' };
       },
       onEachFeature: (feature, layer) => {
         const polyline = layer as L.Polyline;
@@ -365,6 +367,7 @@ export function LeafletMap({
         weight: 1.5,
         opacity: 0.75,
         dashArray: '4 4',
+        interactive: false,
         className: 'interactive-line',
       });
       polyline.bindPopup(buildTieInPopupHtml(tie), { maxWidth: 260 });

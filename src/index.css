@@ -37,7 +37,8 @@
   pointer-events: none;
 }
 
-.interactive-line {
-  pointer-events: none;
+.interactive-line,
+.leaflet-pane path.interactive-line {
+  pointer-events: none !important;
   transition: stroke-width 180ms cubic-bezier(0.22, 1, 0.36, 1), stroke-opacity 180ms ease;
 }
