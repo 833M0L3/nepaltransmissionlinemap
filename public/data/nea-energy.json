@@ -1,35 +1,35 @@
 {
   "source": "https://nea.org.np/en",
-  "scraped_at": "2026-11-26T16:42:43.838488+00:00",
+  "scraped_at": "2026-11-27T16:29:07.846929+00:00",
   "metrics": {
-    "nea_mwh": 7650.0,
-    "nea_subsidiary_mwh": 8400.0,
-    "ipp_mwh": 32476.0,
+    "nea_mwh": 7406.0,
+    "nea_subsidiary_mwh": 8115.0,
+    "ipp_mwh": 32274.0,
     "import_mwh": 0.0,
-    "export_mwh": 9467.0,
-    "interruption_mwh": 632.0,
-    "total_energy_demand_mwh": 49158.0,
-    "national_energy_demand_mwh": 39691.0,
-    "total_peak_demand_mw": 2538.0,
-    "national_peak_demand_mw": 2230.0
+    "export_mwh": 8110.0,
+    "interruption_mwh": 530.0,
+    "total_energy_demand_mwh": 48325.0,
+    "national_energy_demand_mwh": 40215.0,
+    "total_peak_demand_mw": 2582.0,
+    "national_peak_demand_mw": 2263.0
   },
   "items": [
     {
       "label": "NEA",
-      "display": "7,650 MWh",
-      "value": 7650.0,
+      "display": "7,406 MWh",
+      "value": 7406.0,
       "unit": "MWh"
     },
     {
       "label": "NEA Subsidiary Companies",
-      "display": "8,400 MWh",
-      "value": 8400.0,
+      "display": "8,115 MWh",
+      "value": 8115.0,
       "unit": "MWh"
     },
     {
       "label": "IPP",
-      "display": "32,476 MWh",
-      "value": 32476.0,
+      "display": "32,274 MWh",
+      "value": 32274.0,
       "unit": "MWh"
     },
     {
@@ -40,38 +40,38 @@
     },
     {
       "label": "Export",
-      "display": "9,467 MWh",
-      "value": 9467.0,
+      "display": "8,110 MWh",
+      "value": 8110.0,
       "unit": "MWh"
     },
     {
       "label": "Interruption",
-      "display": "632 MWh",
-      "value": 632.0,
+      "display": "530 MWh",
+      "value": 530.0,
       "unit": "MWh"
     },
     {
       "label": "Total Energy Demand",
-      "display": "49,158 MWh",
-      "value": 49158.0,
+      "display": "48,325 MWh",
+      "value": 48325.0,
       "unit": "MWh"
     },
     {
       "label": "National Energy Demand",
-      "display": "39,691 MWh",
-      "value": 39691.0,
+      "display": "40,215 MWh",
+      "value": 40215.0,
       "unit": "MWh"
     },
     {
       "label": "Total Peak Demand",
-      "display": "2,538 MW",
-      "value": 2538.0,
+      "display": "2,582 MW",
+      "value": 2582.0,
       "unit": "MW"
     },
     {
       "label": "National Peak Demand",
-      "display": "2,230 MW",
-      "value": 2230.0,
+      "display": "2,263 MW",
+      "value": 2263.0,
       "unit": "MW"
     }
   ]
